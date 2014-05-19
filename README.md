@@ -1,7 +1,7 @@
 SMK Font Awesome PHP, JSON
 ==========================
 
-This repository contains the necesarry data to work with Font Awesome in PHP or JSON.
+This repository contains the necessary data to work with Font Awesome in PHP or JSON.
 
 ##How to use:
 
