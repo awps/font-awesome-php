@@ -64,4 +64,19 @@ $fa->onlyUnicode($icons);  //Only unicode, no HTML class. '\f073' => '\f073',
 $fa->readableName($icons); //Only HTML class, readable. 'fa-video-camera' => 'Video Camera',
 ```
 
+##JSON Example with jQuery.
+```js
+$.getJSON( "../font-awesome-data.json", function( data ) {
+	var items = [];
+	$.each( data, function( key, val ) {
+		items.push( "<i class='fa " + key + "'></i> " );
+	});
+
+	$( "<div/>", {
+	"class": "icons",
+	html: items.join( "" )
+	}).appendTo( "body" );
+
+});
+```
 
