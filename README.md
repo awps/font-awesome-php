@@ -2,6 +2,9 @@ SMK Font Awesome PHP, JSON
 ==========================
 
 This repository contains the necessary data to work with Font Awesome in PHP or JSON.
+Requirements:
+* Font Awesome 4.1.0
+* PHP 5 _(not required for JSON)_
 
 ##How to use:
 
