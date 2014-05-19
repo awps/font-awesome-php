@@ -65,6 +65,7 @@ $fa->readableName($icons); //Only HTML class, readable. 'fa-video-camera' => 'Vi
 ```
 
 ##JSON Example with jQuery.
+See `dev/test.html` for examples.
 ```js
 $.getJSON( "../font-awesome-data.json", function( data ) {
 	var items = [];
