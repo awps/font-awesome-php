@@ -12,7 +12,7 @@
  *
  * @Date:   2014-05-17 12:29:17
  * @Last Modified by:   Smartik
- * @Last Modified time: 2014-05-17 18:43:02
+ * @Last Modified time: 2014-05-19 14:38:44
  *
  */
 if( ! class_exists('Smk_FontAwesome') ){
@@ -22,8 +22,6 @@ if( ! class_exists('Smk_FontAwesome') ){
 		 * Font Awesome
 		 *
 		 * @param string $path font awesome css file path
-		 * @param string $before prepend a string to class name
-		 * @param string $after append a string to class name
 		 * @param string $class_prefix change this if the class names does not start with `fa-`
 		 * @return array
 		 */
@@ -53,7 +51,7 @@ if( ! class_exists('Smk_FontAwesome') ){
 		 * @param array $array font awesome array. Create it using `getArray` method
 		 * @return array
 		 */
-		public static function sortByName($array){
+		public function sortByName($array){
 			
 			if( ! is_array($array) )
 				return false;//Do not proceed if is not array
@@ -71,7 +69,7 @@ if( ! class_exists('Smk_FontAwesome') ){
 		 * @param array $array font awesome array. Create it using `getArray` method
 		 * @return array
 		 */
-		public static function onlyClass($array){
+		public function onlyClass($array){
 			
 			if( ! is_array($array) )
 				return false;//Do not proceed if is not array
@@ -92,7 +90,7 @@ if( ! class_exists('Smk_FontAwesome') ){
 		 * @param array $array font awesome array. Create it using `getArray` method
 		 * @return array
 		 */
-		public static function onlyUnicode($array){
+		public function onlyUnicode($array){
 			
 			if( ! is_array($array) )
 				return false;//Do not proceed if is not array
@@ -111,16 +109,17 @@ if( ! class_exists('Smk_FontAwesome') ){
 		 * Readable class name. Ex: fa-video-camera => Video Camera
 		 *
 		 * @param array $array font awesome array. Create it using `getArray` method
+		 * @param string $class_prefix change this if the class names does not start with `fa-`
 		 * @return array
 		 */
-		public static function readableName($array){
+		public function readableName($array, $class_prefix = 'fa-'){
 			
 			if( ! is_array($array) )
 				return false;//Do not proceed if is not array
 
 			$temp = array();
 			foreach ($array as $class => $unicode) {
-				$temp[$class] = ucfirst( str_ireplace(array('fa-', '-'), array('', ' '), $class) );
+				$temp[$class] = ucfirst( str_ireplace(array($class_prefix, '-'), array('', ' '), $class) );
 			}
 			return $temp;
 
