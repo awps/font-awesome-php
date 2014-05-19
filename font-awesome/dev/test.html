@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
+        <style>
+			.icons{
+				margin-bottom: 25px;
+				padding-bottom: 25px;
+				border-bottom: 1px solid #ccc;
+			}
+			.icons i{
+				display: inline-block;
+				font-size: 20px;
+				margin: 5px;
+			}
+			.icons-readable span{
+				display: inline-block;
+				width: 20%;
+				min-width: 100px;
+			}
+        </style>
+        <script src="https://code.jquery.com/jquery-2.1.1.js"></script>
+        <script>
+		$.getJSON( "../font-awesome-data.json", function( data ) {
+			var items = [];
+			$.each( data, function( key, val ) {
+				items.push( "<i class='fa " + key + "'></i> " );
+			});
+
+			$( "<div/>", {
+			"class": "icons",
+			html: items.join( "" )
+			}).appendTo( "body" );
+
+		});
+
+		$.getJSON( "../font-awesome-data-readable.json", function( data ) {
+			var names = [];
+			$.each( data, function( key, val ) {
+				names.push( "<span><i class='fa " + key + "'></i> " + val + "</span>" );
+			});
+
+			$( "<div/>", {
+			"class": "icons-readable",
+			html: names.join( "" )
+			}).appendTo( "body" );
+
+		});
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
