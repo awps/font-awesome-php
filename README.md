@@ -8,7 +8,7 @@ This repository contains the necessary data to work with Font Awesome in PHP or 
 * PHP 5 _(not required for JSON)_
  
 **License**
- * MIT - [https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE](Details)
+ * MIT - [Details](https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE)
 
 ##How to use:
 
