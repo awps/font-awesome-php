@@ -6,6 +6,9 @@ This repository contains the necessary data to work with Font Awesome in PHP or 
 **Requirements:**
 * Font Awesome 4.1.0
 * PHP 5 _(not required for JSON)_
+ 
+**License**
+ * MIT - [https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE](Details)
 
 ##How to use:
 
