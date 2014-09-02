@@ -4,8 +4,7 @@ SMK Font Awesome PHP, JSON
 This repository contains the necessary data to work with Font Awesome in PHP or JSON.
 
 **Requirements:**
-* Font Awesome 4.1.0
-* PHP 5 _(not required for JSON)_
+* Font Awesome 4.2.0
  
 **License**
  * MIT - [Details](https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE)
@@ -88,3 +87,12 @@ $.getJSON( "../font-awesome-data.json", function( data ) {
 });
 ```
 
+##Sublime text installation and usage.
+
+**Install:**
+1. Copy files from "sublime-text" folder and paste them in `C:\<USERNAME>\Smartik\AppData\Roaming\Sublime Text 3\Packages\User`. Replace <USERNAME> with your computer username. If you need support for both HTML and PHP files, copy both files else copy only the one that you need(html or php).
+2. Retart Sublime text(optionally, but may be required).
+
+**How to use:**
+To trigger the class name start it using `fa-` prefix then `ctrl` + `space` and select it from th list. The result will be similar to this `fa fa-star`.
+To trigger the complete html start it using `ifa-` prefix then `ctrl` + `space` and select it.  The result will be similar to this `<i class="fa fa-star"></i>`.
