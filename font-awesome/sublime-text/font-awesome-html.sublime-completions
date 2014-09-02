@@ -1,0 +1,3837 @@
+{
+    "scope": "text.html - variable.other.html\n",
+    "completions": [
+        {
+            "trigger": "fa-adjust",
+            "contents": "fa fa-adjust"
+        },
+        {
+            "trigger": "ifa-adjust",
+            "contents": "<i class=\"fa fa-adjust\"><\/i>"
+        },
+        {
+            "trigger": "fa-adn",
+            "contents": "fa fa-adn"
+        },
+        {
+            "trigger": "ifa-adn",
+            "contents": "<i class=\"fa fa-adn\"><\/i>"
+        },
+        {
+            "trigger": "fa-align-center",
+            "contents": "fa fa-align-center"
+        },
+        {
+            "trigger": "ifa-align-center",
+            "contents": "<i class=\"fa fa-align-center\"><\/i>"
+        },
+        {
+            "trigger": "fa-align-justify",
+            "contents": "fa fa-align-justify"
+        },
+        {
+            "trigger": "ifa-align-justify",
+            "contents": "<i class=\"fa fa-align-justify\"><\/i>"
+        },
+        {
+            "trigger": "fa-align-left",
+            "contents": "fa fa-align-left"
+        },
+        {
+            "trigger": "ifa-align-left",
+            "contents": "<i class=\"fa fa-align-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-align-right",
+            "contents": "fa fa-align-right"
+        },
+        {
+            "trigger": "ifa-align-right",
+            "contents": "<i class=\"fa fa-align-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-ambulance",
+            "contents": "fa fa-ambulance"
+        },
+        {
+            "trigger": "ifa-ambulance",
+            "contents": "<i class=\"fa fa-ambulance\"><\/i>"
+        },
+        {
+            "trigger": "fa-anchor",
+            "contents": "fa fa-anchor"
+        },
+        {
+            "trigger": "ifa-anchor",
+            "contents": "<i class=\"fa fa-anchor\"><\/i>"
+        },
+        {
+            "trigger": "fa-android",
+            "contents": "fa fa-android"
+        },
+        {
+            "trigger": "ifa-android",
+            "contents": "<i class=\"fa fa-android\"><\/i>"
+        },
+        {
+            "trigger": "fa-angellist",
+            "contents": "fa fa-angellist"
+        },
+        {
+            "trigger": "ifa-angellist",
+            "contents": "<i class=\"fa fa-angellist\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-double-down",
+            "contents": "fa fa-angle-double-down"
+        },
+        {
+            "trigger": "ifa-angle-double-down",
+            "contents": "<i class=\"fa fa-angle-double-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-double-left",
+            "contents": "fa fa-angle-double-left"
+        },
+        {
+            "trigger": "ifa-angle-double-left",
+            "contents": "<i class=\"fa fa-angle-double-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-double-right",
+            "contents": "fa fa-angle-double-right"
+        },
+        {
+            "trigger": "ifa-angle-double-right",
+            "contents": "<i class=\"fa fa-angle-double-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-double-up",
+            "contents": "fa fa-angle-double-up"
+        },
+        {
+            "trigger": "ifa-angle-double-up",
+            "contents": "<i class=\"fa fa-angle-double-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-down",
+            "contents": "fa fa-angle-down"
+        },
+        {
+            "trigger": "ifa-angle-down",
+            "contents": "<i class=\"fa fa-angle-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-left",
+            "contents": "fa fa-angle-left"
+        },
+        {
+            "trigger": "ifa-angle-left",
+            "contents": "<i class=\"fa fa-angle-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-right",
+            "contents": "fa fa-angle-right"
+        },
+        {
+            "trigger": "ifa-angle-right",
+            "contents": "<i class=\"fa fa-angle-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-angle-up",
+            "contents": "fa fa-angle-up"
+        },
+        {
+            "trigger": "ifa-angle-up",
+            "contents": "<i class=\"fa fa-angle-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-apple",
+            "contents": "fa fa-apple"
+        },
+        {
+            "trigger": "ifa-apple",
+            "contents": "<i class=\"fa fa-apple\"><\/i>"
+        },
+        {
+            "trigger": "fa-archive",
+            "contents": "fa fa-archive"
+        },
+        {
+            "trigger": "ifa-archive",
+            "contents": "<i class=\"fa fa-archive\"><\/i>"
+        },
+        {
+            "trigger": "fa-area-chart",
+            "contents": "fa fa-area-chart"
+        },
+        {
+            "trigger": "ifa-area-chart",
+            "contents": "<i class=\"fa fa-area-chart\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-down",
+            "contents": "fa fa-arrow-circle-down"
+        },
+        {
+            "trigger": "ifa-arrow-circle-down",
+            "contents": "<i class=\"fa fa-arrow-circle-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-left",
+            "contents": "fa fa-arrow-circle-left"
+        },
+        {
+            "trigger": "ifa-arrow-circle-left",
+            "contents": "<i class=\"fa fa-arrow-circle-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-o-down",
+            "contents": "fa fa-arrow-circle-o-down"
+        },
+        {
+            "trigger": "ifa-arrow-circle-o-down",
+            "contents": "<i class=\"fa fa-arrow-circle-o-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-o-left",
+            "contents": "fa fa-arrow-circle-o-left"
+        },
+        {
+            "trigger": "ifa-arrow-circle-o-left",
+            "contents": "<i class=\"fa fa-arrow-circle-o-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-o-right",
+            "contents": "fa fa-arrow-circle-o-right"
+        },
+        {
+            "trigger": "ifa-arrow-circle-o-right",
+            "contents": "<i class=\"fa fa-arrow-circle-o-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-o-up",
+            "contents": "fa fa-arrow-circle-o-up"
+        },
+        {
+            "trigger": "ifa-arrow-circle-o-up",
+            "contents": "<i class=\"fa fa-arrow-circle-o-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-right",
+            "contents": "fa fa-arrow-circle-right"
+        },
+        {
+            "trigger": "ifa-arrow-circle-right",
+            "contents": "<i class=\"fa fa-arrow-circle-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-circle-up",
+            "contents": "fa fa-arrow-circle-up"
+        },
+        {
+            "trigger": "ifa-arrow-circle-up",
+            "contents": "<i class=\"fa fa-arrow-circle-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-down",
+            "contents": "fa fa-arrow-down"
+        },
+        {
+            "trigger": "ifa-arrow-down",
+            "contents": "<i class=\"fa fa-arrow-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-left",
+            "contents": "fa fa-arrow-left"
+        },
+        {
+            "trigger": "ifa-arrow-left",
+            "contents": "<i class=\"fa fa-arrow-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-right",
+            "contents": "fa fa-arrow-right"
+        },
+        {
+            "trigger": "ifa-arrow-right",
+            "contents": "<i class=\"fa fa-arrow-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrow-up",
+            "contents": "fa fa-arrow-up"
+        },
+        {
+            "trigger": "ifa-arrow-up",
+            "contents": "<i class=\"fa fa-arrow-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrows",
+            "contents": "fa fa-arrows"
+        },
+        {
+            "trigger": "ifa-arrows",
+            "contents": "<i class=\"fa fa-arrows\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrows-alt",
+            "contents": "fa fa-arrows-alt"
+        },
+        {
+            "trigger": "ifa-arrows-alt",
+            "contents": "<i class=\"fa fa-arrows-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrows-h",
+            "contents": "fa fa-arrows-h"
+        },
+        {
+            "trigger": "ifa-arrows-h",
+            "contents": "<i class=\"fa fa-arrows-h\"><\/i>"
+        },
+        {
+            "trigger": "fa-arrows-v",
+            "contents": "fa fa-arrows-v"
+        },
+        {
+            "trigger": "ifa-arrows-v",
+            "contents": "<i class=\"fa fa-arrows-v\"><\/i>"
+        },
+        {
+            "trigger": "fa-asterisk",
+            "contents": "fa fa-asterisk"
+        },
+        {
+            "trigger": "ifa-asterisk",
+            "contents": "<i class=\"fa fa-asterisk\"><\/i>"
+        },
+        {
+            "trigger": "fa-at",
+            "contents": "fa fa-at"
+        },
+        {
+            "trigger": "ifa-at",
+            "contents": "<i class=\"fa fa-at\"><\/i>"
+        },
+        {
+            "trigger": "fa-backward",
+            "contents": "fa fa-backward"
+        },
+        {
+            "trigger": "ifa-backward",
+            "contents": "<i class=\"fa fa-backward\"><\/i>"
+        },
+        {
+            "trigger": "fa-ban",
+            "contents": "fa fa-ban"
+        },
+        {
+            "trigger": "ifa-ban",
+            "contents": "<i class=\"fa fa-ban\"><\/i>"
+        },
+        {
+            "trigger": "fa-bar-chart",
+            "contents": "fa fa-bar-chart"
+        },
+        {
+            "trigger": "ifa-bar-chart",
+            "contents": "<i class=\"fa fa-bar-chart\"><\/i>"
+        },
+        {
+            "trigger": "fa-barcode",
+            "contents": "fa fa-barcode"
+        },
+        {
+            "trigger": "ifa-barcode",
+            "contents": "<i class=\"fa fa-barcode\"><\/i>"
+        },
+        {
+            "trigger": "fa-bars",
+            "contents": "fa fa-bars"
+        },
+        {
+            "trigger": "ifa-bars",
+            "contents": "<i class=\"fa fa-bars\"><\/i>"
+        },
+        {
+            "trigger": "fa-beer",
+            "contents": "fa fa-beer"
+        },
+        {
+            "trigger": "ifa-beer",
+            "contents": "<i class=\"fa fa-beer\"><\/i>"
+        },
+        {
+            "trigger": "fa-behance",
+            "contents": "fa fa-behance"
+        },
+        {
+            "trigger": "ifa-behance",
+            "contents": "<i class=\"fa fa-behance\"><\/i>"
+        },
+        {
+            "trigger": "fa-behance-square",
+            "contents": "fa fa-behance-square"
+        },
+        {
+            "trigger": "ifa-behance-square",
+            "contents": "<i class=\"fa fa-behance-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-bell",
+            "contents": "fa fa-bell"
+        },
+        {
+            "trigger": "ifa-bell",
+            "contents": "<i class=\"fa fa-bell\"><\/i>"
+        },
+        {
+            "trigger": "fa-bell-o",
+            "contents": "fa fa-bell-o"
+        },
+        {
+            "trigger": "ifa-bell-o",
+            "contents": "<i class=\"fa fa-bell-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-bell-slash",
+            "contents": "fa fa-bell-slash"
+        },
+        {
+            "trigger": "ifa-bell-slash",
+            "contents": "<i class=\"fa fa-bell-slash\"><\/i>"
+        },
+        {
+            "trigger": "fa-bell-slash-o",
+            "contents": "fa fa-bell-slash-o"
+        },
+        {
+            "trigger": "ifa-bell-slash-o",
+            "contents": "<i class=\"fa fa-bell-slash-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-bicycle",
+            "contents": "fa fa-bicycle"
+        },
+        {
+            "trigger": "ifa-bicycle",
+            "contents": "<i class=\"fa fa-bicycle\"><\/i>"
+        },
+        {
+            "trigger": "fa-binoculars",
+            "contents": "fa fa-binoculars"
+        },
+        {
+            "trigger": "ifa-binoculars",
+            "contents": "<i class=\"fa fa-binoculars\"><\/i>"
+        },
+        {
+            "trigger": "fa-birthday-cake",
+            "contents": "fa fa-birthday-cake"
+        },
+        {
+            "trigger": "ifa-birthday-cake",
+            "contents": "<i class=\"fa fa-birthday-cake\"><\/i>"
+        },
+        {
+            "trigger": "fa-bitbucket",
+            "contents": "fa fa-bitbucket"
+        },
+        {
+            "trigger": "ifa-bitbucket",
+            "contents": "<i class=\"fa fa-bitbucket\"><\/i>"
+        },
+        {
+            "trigger": "fa-bitbucket-square",
+            "contents": "fa fa-bitbucket-square"
+        },
+        {
+            "trigger": "ifa-bitbucket-square",
+            "contents": "<i class=\"fa fa-bitbucket-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-bold",
+            "contents": "fa fa-bold"
+        },
+        {
+            "trigger": "ifa-bold",
+            "contents": "<i class=\"fa fa-bold\"><\/i>"
+        },
+        {
+            "trigger": "fa-bolt",
+            "contents": "fa fa-bolt"
+        },
+        {
+            "trigger": "ifa-bolt",
+            "contents": "<i class=\"fa fa-bolt\"><\/i>"
+        },
+        {
+            "trigger": "fa-bomb",
+            "contents": "fa fa-bomb"
+        },
+        {
+            "trigger": "ifa-bomb",
+            "contents": "<i class=\"fa fa-bomb\"><\/i>"
+        },
+        {
+            "trigger": "fa-book",
+            "contents": "fa fa-book"
+        },
+        {
+            "trigger": "ifa-book",
+            "contents": "<i class=\"fa fa-book\"><\/i>"
+        },
+        {
+            "trigger": "fa-bookmark",
+            "contents": "fa fa-bookmark"
+        },
+        {
+            "trigger": "ifa-bookmark",
+            "contents": "<i class=\"fa fa-bookmark\"><\/i>"
+        },
+        {
+            "trigger": "fa-bookmark-o",
+            "contents": "fa fa-bookmark-o"
+        },
+        {
+            "trigger": "ifa-bookmark-o",
+            "contents": "<i class=\"fa fa-bookmark-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-briefcase",
+            "contents": "fa fa-briefcase"
+        },
+        {
+            "trigger": "ifa-briefcase",
+            "contents": "<i class=\"fa fa-briefcase\"><\/i>"
+        },
+        {
+            "trigger": "fa-btc",
+            "contents": "fa fa-btc"
+        },
+        {
+            "trigger": "ifa-btc",
+            "contents": "<i class=\"fa fa-btc\"><\/i>"
+        },
+        {
+            "trigger": "fa-bug",
+            "contents": "fa fa-bug"
+        },
+        {
+            "trigger": "ifa-bug",
+            "contents": "<i class=\"fa fa-bug\"><\/i>"
+        },
+        {
+            "trigger": "fa-building",
+            "contents": "fa fa-building"
+        },
+        {
+            "trigger": "ifa-building",
+            "contents": "<i class=\"fa fa-building\"><\/i>"
+        },
+        {
+            "trigger": "fa-building-o",
+            "contents": "fa fa-building-o"
+        },
+        {
+            "trigger": "ifa-building-o",
+            "contents": "<i class=\"fa fa-building-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-bullhorn",
+            "contents": "fa fa-bullhorn"
+        },
+        {
+            "trigger": "ifa-bullhorn",
+            "contents": "<i class=\"fa fa-bullhorn\"><\/i>"
+        },
+        {
+            "trigger": "fa-bullseye",
+            "contents": "fa fa-bullseye"
+        },
+        {
+            "trigger": "ifa-bullseye",
+            "contents": "<i class=\"fa fa-bullseye\"><\/i>"
+        },
+        {
+            "trigger": "fa-bus",
+            "contents": "fa fa-bus"
+        },
+        {
+            "trigger": "ifa-bus",
+            "contents": "<i class=\"fa fa-bus\"><\/i>"
+        },
+        {
+            "trigger": "fa-calculator",
+            "contents": "fa fa-calculator"
+        },
+        {
+            "trigger": "ifa-calculator",
+            "contents": "<i class=\"fa fa-calculator\"><\/i>"
+        },
+        {
+            "trigger": "fa-calendar",
+            "contents": "fa fa-calendar"
+        },
+        {
+            "trigger": "ifa-calendar",
+            "contents": "<i class=\"fa fa-calendar\"><\/i>"
+        },
+        {
+            "trigger": "fa-calendar-o",
+            "contents": "fa fa-calendar-o"
+        },
+        {
+            "trigger": "ifa-calendar-o",
+            "contents": "<i class=\"fa fa-calendar-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-camera",
+            "contents": "fa fa-camera"
+        },
+        {
+            "trigger": "ifa-camera",
+            "contents": "<i class=\"fa fa-camera\"><\/i>"
+        },
+        {
+            "trigger": "fa-camera-retro",
+            "contents": "fa fa-camera-retro"
+        },
+        {
+            "trigger": "ifa-camera-retro",
+            "contents": "<i class=\"fa fa-camera-retro\"><\/i>"
+        },
+        {
+            "trigger": "fa-car",
+            "contents": "fa fa-car"
+        },
+        {
+            "trigger": "ifa-car",
+            "contents": "<i class=\"fa fa-car\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-down",
+            "contents": "fa fa-caret-down"
+        },
+        {
+            "trigger": "ifa-caret-down",
+            "contents": "<i class=\"fa fa-caret-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-left",
+            "contents": "fa fa-caret-left"
+        },
+        {
+            "trigger": "ifa-caret-left",
+            "contents": "<i class=\"fa fa-caret-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-right",
+            "contents": "fa fa-caret-right"
+        },
+        {
+            "trigger": "ifa-caret-right",
+            "contents": "<i class=\"fa fa-caret-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-square-o-down",
+            "contents": "fa fa-caret-square-o-down"
+        },
+        {
+            "trigger": "ifa-caret-square-o-down",
+            "contents": "<i class=\"fa fa-caret-square-o-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-square-o-left",
+            "contents": "fa fa-caret-square-o-left"
+        },
+        {
+            "trigger": "ifa-caret-square-o-left",
+            "contents": "<i class=\"fa fa-caret-square-o-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-square-o-right",
+            "contents": "fa fa-caret-square-o-right"
+        },
+        {
+            "trigger": "ifa-caret-square-o-right",
+            "contents": "<i class=\"fa fa-caret-square-o-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-square-o-up",
+            "contents": "fa fa-caret-square-o-up"
+        },
+        {
+            "trigger": "ifa-caret-square-o-up",
+            "contents": "<i class=\"fa fa-caret-square-o-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-caret-up",
+            "contents": "fa fa-caret-up"
+        },
+        {
+            "trigger": "ifa-caret-up",
+            "contents": "<i class=\"fa fa-caret-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc",
+            "contents": "fa fa-cc"
+        },
+        {
+            "trigger": "ifa-cc",
+            "contents": "<i class=\"fa fa-cc\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-amex",
+            "contents": "fa fa-cc-amex"
+        },
+        {
+            "trigger": "ifa-cc-amex",
+            "contents": "<i class=\"fa fa-cc-amex\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-discover",
+            "contents": "fa fa-cc-discover"
+        },
+        {
+            "trigger": "ifa-cc-discover",
+            "contents": "<i class=\"fa fa-cc-discover\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-mastercard",
+            "contents": "fa fa-cc-mastercard"
+        },
+        {
+            "trigger": "ifa-cc-mastercard",
+            "contents": "<i class=\"fa fa-cc-mastercard\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-paypal",
+            "contents": "fa fa-cc-paypal"
+        },
+        {
+            "trigger": "ifa-cc-paypal",
+            "contents": "<i class=\"fa fa-cc-paypal\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-stripe",
+            "contents": "fa fa-cc-stripe"
+        },
+        {
+            "trigger": "ifa-cc-stripe",
+            "contents": "<i class=\"fa fa-cc-stripe\"><\/i>"
+        },
+        {
+            "trigger": "fa-cc-visa",
+            "contents": "fa fa-cc-visa"
+        },
+        {
+            "trigger": "ifa-cc-visa",
+            "contents": "<i class=\"fa fa-cc-visa\"><\/i>"
+        },
+        {
+            "trigger": "fa-certificate",
+            "contents": "fa fa-certificate"
+        },
+        {
+            "trigger": "ifa-certificate",
+            "contents": "<i class=\"fa fa-certificate\"><\/i>"
+        },
+        {
+            "trigger": "fa-chain-broken",
+            "contents": "fa fa-chain-broken"
+        },
+        {
+            "trigger": "ifa-chain-broken",
+            "contents": "<i class=\"fa fa-chain-broken\"><\/i>"
+        },
+        {
+            "trigger": "fa-check",
+            "contents": "fa fa-check"
+        },
+        {
+            "trigger": "ifa-check",
+            "contents": "<i class=\"fa fa-check\"><\/i>"
+        },
+        {
+            "trigger": "fa-check-circle",
+            "contents": "fa fa-check-circle"
+        },
+        {
+            "trigger": "ifa-check-circle",
+            "contents": "<i class=\"fa fa-check-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-check-circle-o",
+            "contents": "fa fa-check-circle-o"
+        },
+        {
+            "trigger": "ifa-check-circle-o",
+            "contents": "<i class=\"fa fa-check-circle-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-check-square",
+            "contents": "fa fa-check-square"
+        },
+        {
+            "trigger": "ifa-check-square",
+            "contents": "<i class=\"fa fa-check-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-check-square-o",
+            "contents": "fa fa-check-square-o"
+        },
+        {
+            "trigger": "ifa-check-square-o",
+            "contents": "<i class=\"fa fa-check-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-circle-down",
+            "contents": "fa fa-chevron-circle-down"
+        },
+        {
+            "trigger": "ifa-chevron-circle-down",
+            "contents": "<i class=\"fa fa-chevron-circle-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-circle-left",
+            "contents": "fa fa-chevron-circle-left"
+        },
+        {
+            "trigger": "ifa-chevron-circle-left",
+            "contents": "<i class=\"fa fa-chevron-circle-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-circle-right",
+            "contents": "fa fa-chevron-circle-right"
+        },
+        {
+            "trigger": "ifa-chevron-circle-right",
+            "contents": "<i class=\"fa fa-chevron-circle-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-circle-up",
+            "contents": "fa fa-chevron-circle-up"
+        },
+        {
+            "trigger": "ifa-chevron-circle-up",
+            "contents": "<i class=\"fa fa-chevron-circle-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-down",
+            "contents": "fa fa-chevron-down"
+        },
+        {
+            "trigger": "ifa-chevron-down",
+            "contents": "<i class=\"fa fa-chevron-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-left",
+            "contents": "fa fa-chevron-left"
+        },
+        {
+            "trigger": "ifa-chevron-left",
+            "contents": "<i class=\"fa fa-chevron-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-right",
+            "contents": "fa fa-chevron-right"
+        },
+        {
+            "trigger": "ifa-chevron-right",
+            "contents": "<i class=\"fa fa-chevron-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-chevron-up",
+            "contents": "fa fa-chevron-up"
+        },
+        {
+            "trigger": "ifa-chevron-up",
+            "contents": "<i class=\"fa fa-chevron-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-child",
+            "contents": "fa fa-child"
+        },
+        {
+            "trigger": "ifa-child",
+            "contents": "<i class=\"fa fa-child\"><\/i>"
+        },
+        {
+            "trigger": "fa-circle",
+            "contents": "fa fa-circle"
+        },
+        {
+            "trigger": "ifa-circle",
+            "contents": "<i class=\"fa fa-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-circle-o",
+            "contents": "fa fa-circle-o"
+        },
+        {
+            "trigger": "ifa-circle-o",
+            "contents": "<i class=\"fa fa-circle-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-circle-o-notch",
+            "contents": "fa fa-circle-o-notch"
+        },
+        {
+            "trigger": "ifa-circle-o-notch",
+            "contents": "<i class=\"fa fa-circle-o-notch\"><\/i>"
+        },
+        {
+            "trigger": "fa-circle-thin",
+            "contents": "fa fa-circle-thin"
+        },
+        {
+            "trigger": "ifa-circle-thin",
+            "contents": "<i class=\"fa fa-circle-thin\"><\/i>"
+        },
+        {
+            "trigger": "fa-clipboard",
+            "contents": "fa fa-clipboard"
+        },
+        {
+            "trigger": "ifa-clipboard",
+            "contents": "<i class=\"fa fa-clipboard\"><\/i>"
+        },
+        {
+            "trigger": "fa-clock-o",
+            "contents": "fa fa-clock-o"
+        },
+        {
+            "trigger": "ifa-clock-o",
+            "contents": "<i class=\"fa fa-clock-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-cloud",
+            "contents": "fa fa-cloud"
+        },
+        {
+            "trigger": "ifa-cloud",
+            "contents": "<i class=\"fa fa-cloud\"><\/i>"
+        },
+        {
+            "trigger": "fa-cloud-download",
+            "contents": "fa fa-cloud-download"
+        },
+        {
+            "trigger": "ifa-cloud-download",
+            "contents": "<i class=\"fa fa-cloud-download\"><\/i>"
+        },
+        {
+            "trigger": "fa-cloud-upload",
+            "contents": "fa fa-cloud-upload"
+        },
+        {
+            "trigger": "ifa-cloud-upload",
+            "contents": "<i class=\"fa fa-cloud-upload\"><\/i>"
+        },
+        {
+            "trigger": "fa-code",
+            "contents": "fa fa-code"
+        },
+        {
+            "trigger": "ifa-code",
+            "contents": "<i class=\"fa fa-code\"><\/i>"
+        },
+        {
+            "trigger": "fa-code-fork",
+            "contents": "fa fa-code-fork"
+        },
+        {
+            "trigger": "ifa-code-fork",
+            "contents": "<i class=\"fa fa-code-fork\"><\/i>"
+        },
+        {
+            "trigger": "fa-codepen",
+            "contents": "fa fa-codepen"
+        },
+        {
+            "trigger": "ifa-codepen",
+            "contents": "<i class=\"fa fa-codepen\"><\/i>"
+        },
+        {
+            "trigger": "fa-coffee",
+            "contents": "fa fa-coffee"
+        },
+        {
+            "trigger": "ifa-coffee",
+            "contents": "<i class=\"fa fa-coffee\"><\/i>"
+        },
+        {
+            "trigger": "fa-cog",
+            "contents": "fa fa-cog"
+        },
+        {
+            "trigger": "ifa-cog",
+            "contents": "<i class=\"fa fa-cog\"><\/i>"
+        },
+        {
+            "trigger": "fa-cogs",
+            "contents": "fa fa-cogs"
+        },
+        {
+            "trigger": "ifa-cogs",
+            "contents": "<i class=\"fa fa-cogs\"><\/i>"
+        },
+        {
+            "trigger": "fa-columns",
+            "contents": "fa fa-columns"
+        },
+        {
+            "trigger": "ifa-columns",
+            "contents": "<i class=\"fa fa-columns\"><\/i>"
+        },
+        {
+            "trigger": "fa-comment",
+            "contents": "fa fa-comment"
+        },
+        {
+            "trigger": "ifa-comment",
+            "contents": "<i class=\"fa fa-comment\"><\/i>"
+        },
+        {
+            "trigger": "fa-comment-o",
+            "contents": "fa fa-comment-o"
+        },
+        {
+            "trigger": "ifa-comment-o",
+            "contents": "<i class=\"fa fa-comment-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-comments",
+            "contents": "fa fa-comments"
+        },
+        {
+            "trigger": "ifa-comments",
+            "contents": "<i class=\"fa fa-comments\"><\/i>"
+        },
+        {
+            "trigger": "fa-comments-o",
+            "contents": "fa fa-comments-o"
+        },
+        {
+            "trigger": "ifa-comments-o",
+            "contents": "<i class=\"fa fa-comments-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-compass",
+            "contents": "fa fa-compass"
+        },
+        {
+            "trigger": "ifa-compass",
+            "contents": "<i class=\"fa fa-compass\"><\/i>"
+        },
+        {
+            "trigger": "fa-compress",
+            "contents": "fa fa-compress"
+        },
+        {
+            "trigger": "ifa-compress",
+            "contents": "<i class=\"fa fa-compress\"><\/i>"
+        },
+        {
+            "trigger": "fa-copyright",
+            "contents": "fa fa-copyright"
+        },
+        {
+            "trigger": "ifa-copyright",
+            "contents": "<i class=\"fa fa-copyright\"><\/i>"
+        },
+        {
+            "trigger": "fa-credit-card",
+            "contents": "fa fa-credit-card"
+        },
+        {
+            "trigger": "ifa-credit-card",
+            "contents": "<i class=\"fa fa-credit-card\"><\/i>"
+        },
+        {
+            "trigger": "fa-crop",
+            "contents": "fa fa-crop"
+        },
+        {
+            "trigger": "ifa-crop",
+            "contents": "<i class=\"fa fa-crop\"><\/i>"
+        },
+        {
+            "trigger": "fa-crosshairs",
+            "contents": "fa fa-crosshairs"
+        },
+        {
+            "trigger": "ifa-crosshairs",
+            "contents": "<i class=\"fa fa-crosshairs\"><\/i>"
+        },
+        {
+            "trigger": "fa-css3",
+            "contents": "fa fa-css3"
+        },
+        {
+            "trigger": "ifa-css3",
+            "contents": "<i class=\"fa fa-css3\"><\/i>"
+        },
+        {
+            "trigger": "fa-cube",
+            "contents": "fa fa-cube"
+        },
+        {
+            "trigger": "ifa-cube",
+            "contents": "<i class=\"fa fa-cube\"><\/i>"
+        },
+        {
+            "trigger": "fa-cubes",
+            "contents": "fa fa-cubes"
+        },
+        {
+            "trigger": "ifa-cubes",
+            "contents": "<i class=\"fa fa-cubes\"><\/i>"
+        },
+        {
+            "trigger": "fa-cutlery",
+            "contents": "fa fa-cutlery"
+        },
+        {
+            "trigger": "ifa-cutlery",
+            "contents": "<i class=\"fa fa-cutlery\"><\/i>"
+        },
+        {
+            "trigger": "fa-database",
+            "contents": "fa fa-database"
+        },
+        {
+            "trigger": "ifa-database",
+            "contents": "<i class=\"fa fa-database\"><\/i>"
+        },
+        {
+            "trigger": "fa-delicious",
+            "contents": "fa fa-delicious"
+        },
+        {
+            "trigger": "ifa-delicious",
+            "contents": "<i class=\"fa fa-delicious\"><\/i>"
+        },
+        {
+            "trigger": "fa-desktop",
+            "contents": "fa fa-desktop"
+        },
+        {
+            "trigger": "ifa-desktop",
+            "contents": "<i class=\"fa fa-desktop\"><\/i>"
+        },
+        {
+            "trigger": "fa-deviantart",
+            "contents": "fa fa-deviantart"
+        },
+        {
+            "trigger": "ifa-deviantart",
+            "contents": "<i class=\"fa fa-deviantart\"><\/i>"
+        },
+        {
+            "trigger": "fa-digg",
+            "contents": "fa fa-digg"
+        },
+        {
+            "trigger": "ifa-digg",
+            "contents": "<i class=\"fa fa-digg\"><\/i>"
+        },
+        {
+            "trigger": "fa-dot-circle-o",
+            "contents": "fa fa-dot-circle-o"
+        },
+        {
+            "trigger": "ifa-dot-circle-o",
+            "contents": "<i class=\"fa fa-dot-circle-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-download",
+            "contents": "fa fa-download"
+        },
+        {
+            "trigger": "ifa-download",
+            "contents": "<i class=\"fa fa-download\"><\/i>"
+        },
+        {
+            "trigger": "fa-dribbble",
+            "contents": "fa fa-dribbble"
+        },
+        {
+            "trigger": "ifa-dribbble",
+            "contents": "<i class=\"fa fa-dribbble\"><\/i>"
+        },
+        {
+            "trigger": "fa-dropbox",
+            "contents": "fa fa-dropbox"
+        },
+        {
+            "trigger": "ifa-dropbox",
+            "contents": "<i class=\"fa fa-dropbox\"><\/i>"
+        },
+        {
+            "trigger": "fa-drupal",
+            "contents": "fa fa-drupal"
+        },
+        {
+            "trigger": "ifa-drupal",
+            "contents": "<i class=\"fa fa-drupal\"><\/i>"
+        },
+        {
+            "trigger": "fa-eject",
+            "contents": "fa fa-eject"
+        },
+        {
+            "trigger": "ifa-eject",
+            "contents": "<i class=\"fa fa-eject\"><\/i>"
+        },
+        {
+            "trigger": "fa-ellipsis-h",
+            "contents": "fa fa-ellipsis-h"
+        },
+        {
+            "trigger": "ifa-ellipsis-h",
+            "contents": "<i class=\"fa fa-ellipsis-h\"><\/i>"
+        },
+        {
+            "trigger": "fa-ellipsis-v",
+            "contents": "fa fa-ellipsis-v"
+        },
+        {
+            "trigger": "ifa-ellipsis-v",
+            "contents": "<i class=\"fa fa-ellipsis-v\"><\/i>"
+        },
+        {
+            "trigger": "fa-empire",
+            "contents": "fa fa-empire"
+        },
+        {
+            "trigger": "ifa-empire",
+            "contents": "<i class=\"fa fa-empire\"><\/i>"
+        },
+        {
+            "trigger": "fa-envelope",
+            "contents": "fa fa-envelope"
+        },
+        {
+            "trigger": "ifa-envelope",
+            "contents": "<i class=\"fa fa-envelope\"><\/i>"
+        },
+        {
+            "trigger": "fa-envelope-o",
+            "contents": "fa fa-envelope-o"
+        },
+        {
+            "trigger": "ifa-envelope-o",
+            "contents": "<i class=\"fa fa-envelope-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-envelope-square",
+            "contents": "fa fa-envelope-square"
+        },
+        {
+            "trigger": "ifa-envelope-square",
+            "contents": "<i class=\"fa fa-envelope-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-eraser",
+            "contents": "fa fa-eraser"
+        },
+        {
+            "trigger": "ifa-eraser",
+            "contents": "<i class=\"fa fa-eraser\"><\/i>"
+        },
+        {
+            "trigger": "fa-eur",
+            "contents": "fa fa-eur"
+        },
+        {
+            "trigger": "ifa-eur",
+            "contents": "<i class=\"fa fa-eur\"><\/i>"
+        },
+        {
+            "trigger": "fa-exchange",
+            "contents": "fa fa-exchange"
+        },
+        {
+            "trigger": "ifa-exchange",
+            "contents": "<i class=\"fa fa-exchange\"><\/i>"
+        },
+        {
+            "trigger": "fa-exclamation",
+            "contents": "fa fa-exclamation"
+        },
+        {
+            "trigger": "ifa-exclamation",
+            "contents": "<i class=\"fa fa-exclamation\"><\/i>"
+        },
+        {
+            "trigger": "fa-exclamation-circle",
+            "contents": "fa fa-exclamation-circle"
+        },
+        {
+            "trigger": "ifa-exclamation-circle",
+            "contents": "<i class=\"fa fa-exclamation-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-exclamation-triangle",
+            "contents": "fa fa-exclamation-triangle"
+        },
+        {
+            "trigger": "ifa-exclamation-triangle",
+            "contents": "<i class=\"fa fa-exclamation-triangle\"><\/i>"
+        },
+        {
+            "trigger": "fa-expand",
+            "contents": "fa fa-expand"
+        },
+        {
+            "trigger": "ifa-expand",
+            "contents": "<i class=\"fa fa-expand\"><\/i>"
+        },
+        {
+            "trigger": "fa-external-link",
+            "contents": "fa fa-external-link"
+        },
+        {
+            "trigger": "ifa-external-link",
+            "contents": "<i class=\"fa fa-external-link\"><\/i>"
+        },
+        {
+            "trigger": "fa-external-link-square",
+            "contents": "fa fa-external-link-square"
+        },
+        {
+            "trigger": "ifa-external-link-square",
+            "contents": "<i class=\"fa fa-external-link-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-eye",
+            "contents": "fa fa-eye"
+        },
+        {
+            "trigger": "ifa-eye",
+            "contents": "<i class=\"fa fa-eye\"><\/i>"
+        },
+        {
+            "trigger": "fa-eye-slash",
+            "contents": "fa fa-eye-slash"
+        },
+        {
+            "trigger": "ifa-eye-slash",
+            "contents": "<i class=\"fa fa-eye-slash\"><\/i>"
+        },
+        {
+            "trigger": "fa-eyedropper",
+            "contents": "fa fa-eyedropper"
+        },
+        {
+            "trigger": "ifa-eyedropper",
+            "contents": "<i class=\"fa fa-eyedropper\"><\/i>"
+        },
+        {
+            "trigger": "fa-facebook",
+            "contents": "fa fa-facebook"
+        },
+        {
+            "trigger": "ifa-facebook",
+            "contents": "<i class=\"fa fa-facebook\"><\/i>"
+        },
+        {
+            "trigger": "fa-facebook-square",
+            "contents": "fa fa-facebook-square"
+        },
+        {
+            "trigger": "ifa-facebook-square",
+            "contents": "<i class=\"fa fa-facebook-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-fast-backward",
+            "contents": "fa fa-fast-backward"
+        },
+        {
+            "trigger": "ifa-fast-backward",
+            "contents": "<i class=\"fa fa-fast-backward\"><\/i>"
+        },
+        {
+            "trigger": "fa-fast-forward",
+            "contents": "fa fa-fast-forward"
+        },
+        {
+            "trigger": "ifa-fast-forward",
+            "contents": "<i class=\"fa fa-fast-forward\"><\/i>"
+        },
+        {
+            "trigger": "fa-fax",
+            "contents": "fa fa-fax"
+        },
+        {
+            "trigger": "ifa-fax",
+            "contents": "<i class=\"fa fa-fax\"><\/i>"
+        },
+        {
+            "trigger": "fa-female",
+            "contents": "fa fa-female"
+        },
+        {
+            "trigger": "ifa-female",
+            "contents": "<i class=\"fa fa-female\"><\/i>"
+        },
+        {
+            "trigger": "fa-fighter-jet",
+            "contents": "fa fa-fighter-jet"
+        },
+        {
+            "trigger": "ifa-fighter-jet",
+            "contents": "<i class=\"fa fa-fighter-jet\"><\/i>"
+        },
+        {
+            "trigger": "fa-file",
+            "contents": "fa fa-file"
+        },
+        {
+            "trigger": "ifa-file",
+            "contents": "<i class=\"fa fa-file\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-archive-o",
+            "contents": "fa fa-file-archive-o"
+        },
+        {
+            "trigger": "ifa-file-archive-o",
+            "contents": "<i class=\"fa fa-file-archive-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-audio-o",
+            "contents": "fa fa-file-audio-o"
+        },
+        {
+            "trigger": "ifa-file-audio-o",
+            "contents": "<i class=\"fa fa-file-audio-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-code-o",
+            "contents": "fa fa-file-code-o"
+        },
+        {
+            "trigger": "ifa-file-code-o",
+            "contents": "<i class=\"fa fa-file-code-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-excel-o",
+            "contents": "fa fa-file-excel-o"
+        },
+        {
+            "trigger": "ifa-file-excel-o",
+            "contents": "<i class=\"fa fa-file-excel-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-image-o",
+            "contents": "fa fa-file-image-o"
+        },
+        {
+            "trigger": "ifa-file-image-o",
+            "contents": "<i class=\"fa fa-file-image-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-o",
+            "contents": "fa fa-file-o"
+        },
+        {
+            "trigger": "ifa-file-o",
+            "contents": "<i class=\"fa fa-file-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-pdf-o",
+            "contents": "fa fa-file-pdf-o"
+        },
+        {
+            "trigger": "ifa-file-pdf-o",
+            "contents": "<i class=\"fa fa-file-pdf-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-powerpoint-o",
+            "contents": "fa fa-file-powerpoint-o"
+        },
+        {
+            "trigger": "ifa-file-powerpoint-o",
+            "contents": "<i class=\"fa fa-file-powerpoint-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-text",
+            "contents": "fa fa-file-text"
+        },
+        {
+            "trigger": "ifa-file-text",
+            "contents": "<i class=\"fa fa-file-text\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-text-o",
+            "contents": "fa fa-file-text-o"
+        },
+        {
+            "trigger": "ifa-file-text-o",
+            "contents": "<i class=\"fa fa-file-text-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-video-o",
+            "contents": "fa fa-file-video-o"
+        },
+        {
+            "trigger": "ifa-file-video-o",
+            "contents": "<i class=\"fa fa-file-video-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-file-word-o",
+            "contents": "fa fa-file-word-o"
+        },
+        {
+            "trigger": "ifa-file-word-o",
+            "contents": "<i class=\"fa fa-file-word-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-files-o",
+            "contents": "fa fa-files-o"
+        },
+        {
+            "trigger": "ifa-files-o",
+            "contents": "<i class=\"fa fa-files-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-film",
+            "contents": "fa fa-film"
+        },
+        {
+            "trigger": "ifa-film",
+            "contents": "<i class=\"fa fa-film\"><\/i>"
+        },
+        {
+            "trigger": "fa-filter",
+            "contents": "fa fa-filter"
+        },
+        {
+            "trigger": "ifa-filter",
+            "contents": "<i class=\"fa fa-filter\"><\/i>"
+        },
+        {
+            "trigger": "fa-fire",
+            "contents": "fa fa-fire"
+        },
+        {
+            "trigger": "ifa-fire",
+            "contents": "<i class=\"fa fa-fire\"><\/i>"
+        },
+        {
+            "trigger": "fa-fire-extinguisher",
+            "contents": "fa fa-fire-extinguisher"
+        },
+        {
+            "trigger": "ifa-fire-extinguisher",
+            "contents": "<i class=\"fa fa-fire-extinguisher\"><\/i>"
+        },
+        {
+            "trigger": "fa-flag",
+            "contents": "fa fa-flag"
+        },
+        {
+            "trigger": "ifa-flag",
+            "contents": "<i class=\"fa fa-flag\"><\/i>"
+        },
+        {
+            "trigger": "fa-flag-checkered",
+            "contents": "fa fa-flag-checkered"
+        },
+        {
+            "trigger": "ifa-flag-checkered",
+            "contents": "<i class=\"fa fa-flag-checkered\"><\/i>"
+        },
+        {
+            "trigger": "fa-flag-o",
+            "contents": "fa fa-flag-o"
+        },
+        {
+            "trigger": "ifa-flag-o",
+            "contents": "<i class=\"fa fa-flag-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-flask",
+            "contents": "fa fa-flask"
+        },
+        {
+            "trigger": "ifa-flask",
+            "contents": "<i class=\"fa fa-flask\"><\/i>"
+        },
+        {
+            "trigger": "fa-flickr",
+            "contents": "fa fa-flickr"
+        },
+        {
+            "trigger": "ifa-flickr",
+            "contents": "<i class=\"fa fa-flickr\"><\/i>"
+        },
+        {
+            "trigger": "fa-floppy-o",
+            "contents": "fa fa-floppy-o"
+        },
+        {
+            "trigger": "ifa-floppy-o",
+            "contents": "<i class=\"fa fa-floppy-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-folder",
+            "contents": "fa fa-folder"
+        },
+        {
+            "trigger": "ifa-folder",
+            "contents": "<i class=\"fa fa-folder\"><\/i>"
+        },
+        {
+            "trigger": "fa-folder-o",
+            "contents": "fa fa-folder-o"
+        },
+        {
+            "trigger": "ifa-folder-o",
+            "contents": "<i class=\"fa fa-folder-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-folder-open",
+            "contents": "fa fa-folder-open"
+        },
+        {
+            "trigger": "ifa-folder-open",
+            "contents": "<i class=\"fa fa-folder-open\"><\/i>"
+        },
+        {
+            "trigger": "fa-folder-open-o",
+            "contents": "fa fa-folder-open-o"
+        },
+        {
+            "trigger": "ifa-folder-open-o",
+            "contents": "<i class=\"fa fa-folder-open-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-font",
+            "contents": "fa fa-font"
+        },
+        {
+            "trigger": "ifa-font",
+            "contents": "<i class=\"fa fa-font\"><\/i>"
+        },
+        {
+            "trigger": "fa-forward",
+            "contents": "fa fa-forward"
+        },
+        {
+            "trigger": "ifa-forward",
+            "contents": "<i class=\"fa fa-forward\"><\/i>"
+        },
+        {
+            "trigger": "fa-foursquare",
+            "contents": "fa fa-foursquare"
+        },
+        {
+            "trigger": "ifa-foursquare",
+            "contents": "<i class=\"fa fa-foursquare\"><\/i>"
+        },
+        {
+            "trigger": "fa-frown-o",
+            "contents": "fa fa-frown-o"
+        },
+        {
+            "trigger": "ifa-frown-o",
+            "contents": "<i class=\"fa fa-frown-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-futbol-o",
+            "contents": "fa fa-futbol-o"
+        },
+        {
+            "trigger": "ifa-futbol-o",
+            "contents": "<i class=\"fa fa-futbol-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-gamepad",
+            "contents": "fa fa-gamepad"
+        },
+        {
+            "trigger": "ifa-gamepad",
+            "contents": "<i class=\"fa fa-gamepad\"><\/i>"
+        },
+        {
+            "trigger": "fa-gavel",
+            "contents": "fa fa-gavel"
+        },
+        {
+            "trigger": "ifa-gavel",
+            "contents": "<i class=\"fa fa-gavel\"><\/i>"
+        },
+        {
+            "trigger": "fa-gbp",
+            "contents": "fa fa-gbp"
+        },
+        {
+            "trigger": "ifa-gbp",
+            "contents": "<i class=\"fa fa-gbp\"><\/i>"
+        },
+        {
+            "trigger": "fa-gift",
+            "contents": "fa fa-gift"
+        },
+        {
+            "trigger": "ifa-gift",
+            "contents": "<i class=\"fa fa-gift\"><\/i>"
+        },
+        {
+            "trigger": "fa-git",
+            "contents": "fa fa-git"
+        },
+        {
+            "trigger": "ifa-git",
+            "contents": "<i class=\"fa fa-git\"><\/i>"
+        },
+        {
+            "trigger": "fa-git-square",
+            "contents": "fa fa-git-square"
+        },
+        {
+            "trigger": "ifa-git-square",
+            "contents": "<i class=\"fa fa-git-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-github",
+            "contents": "fa fa-github"
+        },
+        {
+            "trigger": "ifa-github",
+            "contents": "<i class=\"fa fa-github\"><\/i>"
+        },
+        {
+            "trigger": "fa-github-alt",
+            "contents": "fa fa-github-alt"
+        },
+        {
+            "trigger": "ifa-github-alt",
+            "contents": "<i class=\"fa fa-github-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-github-square",
+            "contents": "fa fa-github-square"
+        },
+        {
+            "trigger": "ifa-github-square",
+            "contents": "<i class=\"fa fa-github-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-gittip",
+            "contents": "fa fa-gittip"
+        },
+        {
+            "trigger": "ifa-gittip",
+            "contents": "<i class=\"fa fa-gittip\"><\/i>"
+        },
+        {
+            "trigger": "fa-glass",
+            "contents": "fa fa-glass"
+        },
+        {
+            "trigger": "ifa-glass",
+            "contents": "<i class=\"fa fa-glass\"><\/i>"
+        },
+        {
+            "trigger": "fa-globe",
+            "contents": "fa fa-globe"
+        },
+        {
+            "trigger": "ifa-globe",
+            "contents": "<i class=\"fa fa-globe\"><\/i>"
+        },
+        {
+            "trigger": "fa-google",
+            "contents": "fa fa-google"
+        },
+        {
+            "trigger": "ifa-google",
+            "contents": "<i class=\"fa fa-google\"><\/i>"
+        },
+        {
+            "trigger": "fa-google-plus",
+            "contents": "fa fa-google-plus"
+        },
+        {
+            "trigger": "ifa-google-plus",
+            "contents": "<i class=\"fa fa-google-plus\"><\/i>"
+        },
+        {
+            "trigger": "fa-google-plus-square",
+            "contents": "fa fa-google-plus-square"
+        },
+        {
+            "trigger": "ifa-google-plus-square",
+            "contents": "<i class=\"fa fa-google-plus-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-google-wallet",
+            "contents": "fa fa-google-wallet"
+        },
+        {
+            "trigger": "ifa-google-wallet",
+            "contents": "<i class=\"fa fa-google-wallet\"><\/i>"
+        },
+        {
+            "trigger": "fa-graduation-cap",
+            "contents": "fa fa-graduation-cap"
+        },
+        {
+            "trigger": "ifa-graduation-cap",
+            "contents": "<i class=\"fa fa-graduation-cap\"><\/i>"
+        },
+        {
+            "trigger": "fa-h-square",
+            "contents": "fa fa-h-square"
+        },
+        {
+            "trigger": "ifa-h-square",
+            "contents": "<i class=\"fa fa-h-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-hacker-news",
+            "contents": "fa fa-hacker-news"
+        },
+        {
+            "trigger": "ifa-hacker-news",
+            "contents": "<i class=\"fa fa-hacker-news\"><\/i>"
+        },
+        {
+            "trigger": "fa-hand-o-down",
+            "contents": "fa fa-hand-o-down"
+        },
+        {
+            "trigger": "ifa-hand-o-down",
+            "contents": "<i class=\"fa fa-hand-o-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-hand-o-left",
+            "contents": "fa fa-hand-o-left"
+        },
+        {
+            "trigger": "ifa-hand-o-left",
+            "contents": "<i class=\"fa fa-hand-o-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-hand-o-right",
+            "contents": "fa fa-hand-o-right"
+        },
+        {
+            "trigger": "ifa-hand-o-right",
+            "contents": "<i class=\"fa fa-hand-o-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-hand-o-up",
+            "contents": "fa fa-hand-o-up"
+        },
+        {
+            "trigger": "ifa-hand-o-up",
+            "contents": "<i class=\"fa fa-hand-o-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-hdd-o",
+            "contents": "fa fa-hdd-o"
+        },
+        {
+            "trigger": "ifa-hdd-o",
+            "contents": "<i class=\"fa fa-hdd-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-header",
+            "contents": "fa fa-header"
+        },
+        {
+            "trigger": "ifa-header",
+            "contents": "<i class=\"fa fa-header\"><\/i>"
+        },
+        {
+            "trigger": "fa-headphones",
+            "contents": "fa fa-headphones"
+        },
+        {
+            "trigger": "ifa-headphones",
+            "contents": "<i class=\"fa fa-headphones\"><\/i>"
+        },
+        {
+            "trigger": "fa-heart",
+            "contents": "fa fa-heart"
+        },
+        {
+            "trigger": "ifa-heart",
+            "contents": "<i class=\"fa fa-heart\"><\/i>"
+        },
+        {
+            "trigger": "fa-heart-o",
+            "contents": "fa fa-heart-o"
+        },
+        {
+            "trigger": "ifa-heart-o",
+            "contents": "<i class=\"fa fa-heart-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-history",
+            "contents": "fa fa-history"
+        },
+        {
+            "trigger": "ifa-history",
+            "contents": "<i class=\"fa fa-history\"><\/i>"
+        },
+        {
+            "trigger": "fa-home",
+            "contents": "fa fa-home"
+        },
+        {
+            "trigger": "ifa-home",
+            "contents": "<i class=\"fa fa-home\"><\/i>"
+        },
+        {
+            "trigger": "fa-hospital-o",
+            "contents": "fa fa-hospital-o"
+        },
+        {
+            "trigger": "ifa-hospital-o",
+            "contents": "<i class=\"fa fa-hospital-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-html5",
+            "contents": "fa fa-html5"
+        },
+        {
+            "trigger": "ifa-html5",
+            "contents": "<i class=\"fa fa-html5\"><\/i>"
+        },
+        {
+            "trigger": "fa-ils",
+            "contents": "fa fa-ils"
+        },
+        {
+            "trigger": "ifa-ils",
+            "contents": "<i class=\"fa fa-ils\"><\/i>"
+        },
+        {
+            "trigger": "fa-inbox",
+            "contents": "fa fa-inbox"
+        },
+        {
+            "trigger": "ifa-inbox",
+            "contents": "<i class=\"fa fa-inbox\"><\/i>"
+        },
+        {
+            "trigger": "fa-indent",
+            "contents": "fa fa-indent"
+        },
+        {
+            "trigger": "ifa-indent",
+            "contents": "<i class=\"fa fa-indent\"><\/i>"
+        },
+        {
+            "trigger": "fa-info",
+            "contents": "fa fa-info"
+        },
+        {
+            "trigger": "ifa-info",
+            "contents": "<i class=\"fa fa-info\"><\/i>"
+        },
+        {
+            "trigger": "fa-info-circle",
+            "contents": "fa fa-info-circle"
+        },
+        {
+            "trigger": "ifa-info-circle",
+            "contents": "<i class=\"fa fa-info-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-inr",
+            "contents": "fa fa-inr"
+        },
+        {
+            "trigger": "ifa-inr",
+            "contents": "<i class=\"fa fa-inr\"><\/i>"
+        },
+        {
+            "trigger": "fa-instagram",
+            "contents": "fa fa-instagram"
+        },
+        {
+            "trigger": "ifa-instagram",
+            "contents": "<i class=\"fa fa-instagram\"><\/i>"
+        },
+        {
+            "trigger": "fa-ioxhost",
+            "contents": "fa fa-ioxhost"
+        },
+        {
+            "trigger": "ifa-ioxhost",
+            "contents": "<i class=\"fa fa-ioxhost\"><\/i>"
+        },
+        {
+            "trigger": "fa-italic",
+            "contents": "fa fa-italic"
+        },
+        {
+            "trigger": "ifa-italic",
+            "contents": "<i class=\"fa fa-italic\"><\/i>"
+        },
+        {
+            "trigger": "fa-joomla",
+            "contents": "fa fa-joomla"
+        },
+        {
+            "trigger": "ifa-joomla",
+            "contents": "<i class=\"fa fa-joomla\"><\/i>"
+        },
+        {
+            "trigger": "fa-jpy",
+            "contents": "fa fa-jpy"
+        },
+        {
+            "trigger": "ifa-jpy",
+            "contents": "<i class=\"fa fa-jpy\"><\/i>"
+        },
+        {
+            "trigger": "fa-jsfiddle",
+            "contents": "fa fa-jsfiddle"
+        },
+        {
+            "trigger": "ifa-jsfiddle",
+            "contents": "<i class=\"fa fa-jsfiddle\"><\/i>"
+        },
+        {
+            "trigger": "fa-key",
+            "contents": "fa fa-key"
+        },
+        {
+            "trigger": "ifa-key",
+            "contents": "<i class=\"fa fa-key\"><\/i>"
+        },
+        {
+            "trigger": "fa-keyboard-o",
+            "contents": "fa fa-keyboard-o"
+        },
+        {
+            "trigger": "ifa-keyboard-o",
+            "contents": "<i class=\"fa fa-keyboard-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-krw",
+            "contents": "fa fa-krw"
+        },
+        {
+            "trigger": "ifa-krw",
+            "contents": "<i class=\"fa fa-krw\"><\/i>"
+        },
+        {
+            "trigger": "fa-language",
+            "contents": "fa fa-language"
+        },
+        {
+            "trigger": "ifa-language",
+            "contents": "<i class=\"fa fa-language\"><\/i>"
+        },
+        {
+            "trigger": "fa-laptop",
+            "contents": "fa fa-laptop"
+        },
+        {
+            "trigger": "ifa-laptop",
+            "contents": "<i class=\"fa fa-laptop\"><\/i>"
+        },
+        {
+            "trigger": "fa-lastfm",
+            "contents": "fa fa-lastfm"
+        },
+        {
+            "trigger": "ifa-lastfm",
+            "contents": "<i class=\"fa fa-lastfm\"><\/i>"
+        },
+        {
+            "trigger": "fa-lastfm-square",
+            "contents": "fa fa-lastfm-square"
+        },
+        {
+            "trigger": "ifa-lastfm-square",
+            "contents": "<i class=\"fa fa-lastfm-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-leaf",
+            "contents": "fa fa-leaf"
+        },
+        {
+            "trigger": "ifa-leaf",
+            "contents": "<i class=\"fa fa-leaf\"><\/i>"
+        },
+        {
+            "trigger": "fa-lemon-o",
+            "contents": "fa fa-lemon-o"
+        },
+        {
+            "trigger": "ifa-lemon-o",
+            "contents": "<i class=\"fa fa-lemon-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-level-down",
+            "contents": "fa fa-level-down"
+        },
+        {
+            "trigger": "ifa-level-down",
+            "contents": "<i class=\"fa fa-level-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-level-up",
+            "contents": "fa fa-level-up"
+        },
+        {
+            "trigger": "ifa-level-up",
+            "contents": "<i class=\"fa fa-level-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-life-ring",
+            "contents": "fa fa-life-ring"
+        },
+        {
+            "trigger": "ifa-life-ring",
+            "contents": "<i class=\"fa fa-life-ring\"><\/i>"
+        },
+        {
+            "trigger": "fa-lightbulb-o",
+            "contents": "fa fa-lightbulb-o"
+        },
+        {
+            "trigger": "ifa-lightbulb-o",
+            "contents": "<i class=\"fa fa-lightbulb-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-line-chart",
+            "contents": "fa fa-line-chart"
+        },
+        {
+            "trigger": "ifa-line-chart",
+            "contents": "<i class=\"fa fa-line-chart\"><\/i>"
+        },
+        {
+            "trigger": "fa-link",
+            "contents": "fa fa-link"
+        },
+        {
+            "trigger": "ifa-link",
+            "contents": "<i class=\"fa fa-link\"><\/i>"
+        },
+        {
+            "trigger": "fa-linkedin",
+            "contents": "fa fa-linkedin"
+        },
+        {
+            "trigger": "ifa-linkedin",
+            "contents": "<i class=\"fa fa-linkedin\"><\/i>"
+        },
+        {
+            "trigger": "fa-linkedin-square",
+            "contents": "fa fa-linkedin-square"
+        },
+        {
+            "trigger": "ifa-linkedin-square",
+            "contents": "<i class=\"fa fa-linkedin-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-linux",
+            "contents": "fa fa-linux"
+        },
+        {
+            "trigger": "ifa-linux",
+            "contents": "<i class=\"fa fa-linux\"><\/i>"
+        },
+        {
+            "trigger": "fa-list",
+            "contents": "fa fa-list"
+        },
+        {
+            "trigger": "ifa-list",
+            "contents": "<i class=\"fa fa-list\"><\/i>"
+        },
+        {
+            "trigger": "fa-list-alt",
+            "contents": "fa fa-list-alt"
+        },
+        {
+            "trigger": "ifa-list-alt",
+            "contents": "<i class=\"fa fa-list-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-list-ol",
+            "contents": "fa fa-list-ol"
+        },
+        {
+            "trigger": "ifa-list-ol",
+            "contents": "<i class=\"fa fa-list-ol\"><\/i>"
+        },
+        {
+            "trigger": "fa-list-ul",
+            "contents": "fa fa-list-ul"
+        },
+        {
+            "trigger": "ifa-list-ul",
+            "contents": "<i class=\"fa fa-list-ul\"><\/i>"
+        },
+        {
+            "trigger": "fa-location-arrow",
+            "contents": "fa fa-location-arrow"
+        },
+        {
+            "trigger": "ifa-location-arrow",
+            "contents": "<i class=\"fa fa-location-arrow\"><\/i>"
+        },
+        {
+            "trigger": "fa-lock",
+            "contents": "fa fa-lock"
+        },
+        {
+            "trigger": "ifa-lock",
+            "contents": "<i class=\"fa fa-lock\"><\/i>"
+        },
+        {
+            "trigger": "fa-long-arrow-down",
+            "contents": "fa fa-long-arrow-down"
+        },
+        {
+            "trigger": "ifa-long-arrow-down",
+            "contents": "<i class=\"fa fa-long-arrow-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-long-arrow-left",
+            "contents": "fa fa-long-arrow-left"
+        },
+        {
+            "trigger": "ifa-long-arrow-left",
+            "contents": "<i class=\"fa fa-long-arrow-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-long-arrow-right",
+            "contents": "fa fa-long-arrow-right"
+        },
+        {
+            "trigger": "ifa-long-arrow-right",
+            "contents": "<i class=\"fa fa-long-arrow-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-long-arrow-up",
+            "contents": "fa fa-long-arrow-up"
+        },
+        {
+            "trigger": "ifa-long-arrow-up",
+            "contents": "<i class=\"fa fa-long-arrow-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-magic",
+            "contents": "fa fa-magic"
+        },
+        {
+            "trigger": "ifa-magic",
+            "contents": "<i class=\"fa fa-magic\"><\/i>"
+        },
+        {
+            "trigger": "fa-magnet",
+            "contents": "fa fa-magnet"
+        },
+        {
+            "trigger": "ifa-magnet",
+            "contents": "<i class=\"fa fa-magnet\"><\/i>"
+        },
+        {
+            "trigger": "fa-male",
+            "contents": "fa fa-male"
+        },
+        {
+            "trigger": "ifa-male",
+            "contents": "<i class=\"fa fa-male\"><\/i>"
+        },
+        {
+            "trigger": "fa-map-marker",
+            "contents": "fa fa-map-marker"
+        },
+        {
+            "trigger": "ifa-map-marker",
+            "contents": "<i class=\"fa fa-map-marker\"><\/i>"
+        },
+        {
+            "trigger": "fa-maxcdn",
+            "contents": "fa fa-maxcdn"
+        },
+        {
+            "trigger": "ifa-maxcdn",
+            "contents": "<i class=\"fa fa-maxcdn\"><\/i>"
+        },
+        {
+            "trigger": "fa-meanpath",
+            "contents": "fa fa-meanpath"
+        },
+        {
+            "trigger": "ifa-meanpath",
+            "contents": "<i class=\"fa fa-meanpath\"><\/i>"
+        },
+        {
+            "trigger": "fa-medkit",
+            "contents": "fa fa-medkit"
+        },
+        {
+            "trigger": "ifa-medkit",
+            "contents": "<i class=\"fa fa-medkit\"><\/i>"
+        },
+        {
+            "trigger": "fa-meh-o",
+            "contents": "fa fa-meh-o"
+        },
+        {
+            "trigger": "ifa-meh-o",
+            "contents": "<i class=\"fa fa-meh-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-microphone",
+            "contents": "fa fa-microphone"
+        },
+        {
+            "trigger": "ifa-microphone",
+            "contents": "<i class=\"fa fa-microphone\"><\/i>"
+        },
+        {
+            "trigger": "fa-microphone-slash",
+            "contents": "fa fa-microphone-slash"
+        },
+        {
+            "trigger": "ifa-microphone-slash",
+            "contents": "<i class=\"fa fa-microphone-slash\"><\/i>"
+        },
+        {
+            "trigger": "fa-minus",
+            "contents": "fa fa-minus"
+        },
+        {
+            "trigger": "ifa-minus",
+            "contents": "<i class=\"fa fa-minus\"><\/i>"
+        },
+        {
+            "trigger": "fa-minus-circle",
+            "contents": "fa fa-minus-circle"
+        },
+        {
+            "trigger": "ifa-minus-circle",
+            "contents": "<i class=\"fa fa-minus-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-minus-square",
+            "contents": "fa fa-minus-square"
+        },
+        {
+            "trigger": "ifa-minus-square",
+            "contents": "<i class=\"fa fa-minus-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-minus-square-o",
+            "contents": "fa fa-minus-square-o"
+        },
+        {
+            "trigger": "ifa-minus-square-o",
+            "contents": "<i class=\"fa fa-minus-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-mobile",
+            "contents": "fa fa-mobile"
+        },
+        {
+            "trigger": "ifa-mobile",
+            "contents": "<i class=\"fa fa-mobile\"><\/i>"
+        },
+        {
+            "trigger": "fa-money",
+            "contents": "fa fa-money"
+        },
+        {
+            "trigger": "ifa-money",
+            "contents": "<i class=\"fa fa-money\"><\/i>"
+        },
+        {
+            "trigger": "fa-moon-o",
+            "contents": "fa fa-moon-o"
+        },
+        {
+            "trigger": "ifa-moon-o",
+            "contents": "<i class=\"fa fa-moon-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-music",
+            "contents": "fa fa-music"
+        },
+        {
+            "trigger": "ifa-music",
+            "contents": "<i class=\"fa fa-music\"><\/i>"
+        },
+        {
+            "trigger": "fa-newspaper-o",
+            "contents": "fa fa-newspaper-o"
+        },
+        {
+            "trigger": "ifa-newspaper-o",
+            "contents": "<i class=\"fa fa-newspaper-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-openid",
+            "contents": "fa fa-openid"
+        },
+        {
+            "trigger": "ifa-openid",
+            "contents": "<i class=\"fa fa-openid\"><\/i>"
+        },
+        {
+            "trigger": "fa-outdent",
+            "contents": "fa fa-outdent"
+        },
+        {
+            "trigger": "ifa-outdent",
+            "contents": "<i class=\"fa fa-outdent\"><\/i>"
+        },
+        {
+            "trigger": "fa-pagelines",
+            "contents": "fa fa-pagelines"
+        },
+        {
+            "trigger": "ifa-pagelines",
+            "contents": "<i class=\"fa fa-pagelines\"><\/i>"
+        },
+        {
+            "trigger": "fa-paint-brush",
+            "contents": "fa fa-paint-brush"
+        },
+        {
+            "trigger": "ifa-paint-brush",
+            "contents": "<i class=\"fa fa-paint-brush\"><\/i>"
+        },
+        {
+            "trigger": "fa-paper-plane",
+            "contents": "fa fa-paper-plane"
+        },
+        {
+            "trigger": "ifa-paper-plane",
+            "contents": "<i class=\"fa fa-paper-plane\"><\/i>"
+        },
+        {
+            "trigger": "fa-paper-plane-o",
+            "contents": "fa fa-paper-plane-o"
+        },
+        {
+            "trigger": "ifa-paper-plane-o",
+            "contents": "<i class=\"fa fa-paper-plane-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-paperclip",
+            "contents": "fa fa-paperclip"
+        },
+        {
+            "trigger": "ifa-paperclip",
+            "contents": "<i class=\"fa fa-paperclip\"><\/i>"
+        },
+        {
+            "trigger": "fa-paragraph",
+            "contents": "fa fa-paragraph"
+        },
+        {
+            "trigger": "ifa-paragraph",
+            "contents": "<i class=\"fa fa-paragraph\"><\/i>"
+        },
+        {
+            "trigger": "fa-pause",
+            "contents": "fa fa-pause"
+        },
+        {
+            "trigger": "ifa-pause",
+            "contents": "<i class=\"fa fa-pause\"><\/i>"
+        },
+        {
+            "trigger": "fa-paw",
+            "contents": "fa fa-paw"
+        },
+        {
+            "trigger": "ifa-paw",
+            "contents": "<i class=\"fa fa-paw\"><\/i>"
+        },
+        {
+            "trigger": "fa-paypal",
+            "contents": "fa fa-paypal"
+        },
+        {
+            "trigger": "ifa-paypal",
+            "contents": "<i class=\"fa fa-paypal\"><\/i>"
+        },
+        {
+            "trigger": "fa-pencil",
+            "contents": "fa fa-pencil"
+        },
+        {
+            "trigger": "ifa-pencil",
+            "contents": "<i class=\"fa fa-pencil\"><\/i>"
+        },
+        {
+            "trigger": "fa-pencil-square",
+            "contents": "fa fa-pencil-square"
+        },
+        {
+            "trigger": "ifa-pencil-square",
+            "contents": "<i class=\"fa fa-pencil-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-pencil-square-o",
+            "contents": "fa fa-pencil-square-o"
+        },
+        {
+            "trigger": "ifa-pencil-square-o",
+            "contents": "<i class=\"fa fa-pencil-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-phone",
+            "contents": "fa fa-phone"
+        },
+        {
+            "trigger": "ifa-phone",
+            "contents": "<i class=\"fa fa-phone\"><\/i>"
+        },
+        {
+            "trigger": "fa-phone-square",
+            "contents": "fa fa-phone-square"
+        },
+        {
+            "trigger": "ifa-phone-square",
+            "contents": "<i class=\"fa fa-phone-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-picture-o",
+            "contents": "fa fa-picture-o"
+        },
+        {
+            "trigger": "ifa-picture-o",
+            "contents": "<i class=\"fa fa-picture-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-pie-chart",
+            "contents": "fa fa-pie-chart"
+        },
+        {
+            "trigger": "ifa-pie-chart",
+            "contents": "<i class=\"fa fa-pie-chart\"><\/i>"
+        },
+        {
+            "trigger": "fa-pied-piper",
+            "contents": "fa fa-pied-piper"
+        },
+        {
+            "trigger": "ifa-pied-piper",
+            "contents": "<i class=\"fa fa-pied-piper\"><\/i>"
+        },
+        {
+            "trigger": "fa-pied-piper-alt",
+            "contents": "fa fa-pied-piper-alt"
+        },
+        {
+            "trigger": "ifa-pied-piper-alt",
+            "contents": "<i class=\"fa fa-pied-piper-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-pinterest",
+            "contents": "fa fa-pinterest"
+        },
+        {
+            "trigger": "ifa-pinterest",
+            "contents": "<i class=\"fa fa-pinterest\"><\/i>"
+        },
+        {
+            "trigger": "fa-pinterest-square",
+            "contents": "fa fa-pinterest-square"
+        },
+        {
+            "trigger": "ifa-pinterest-square",
+            "contents": "<i class=\"fa fa-pinterest-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-plane",
+            "contents": "fa fa-plane"
+        },
+        {
+            "trigger": "ifa-plane",
+            "contents": "<i class=\"fa fa-plane\"><\/i>"
+        },
+        {
+            "trigger": "fa-play",
+            "contents": "fa fa-play"
+        },
+        {
+            "trigger": "ifa-play",
+            "contents": "<i class=\"fa fa-play\"><\/i>"
+        },
+        {
+            "trigger": "fa-play-circle",
+            "contents": "fa fa-play-circle"
+        },
+        {
+            "trigger": "ifa-play-circle",
+            "contents": "<i class=\"fa fa-play-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-play-circle-o",
+            "contents": "fa fa-play-circle-o"
+        },
+        {
+            "trigger": "ifa-play-circle-o",
+            "contents": "<i class=\"fa fa-play-circle-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-plug",
+            "contents": "fa fa-plug"
+        },
+        {
+            "trigger": "ifa-plug",
+            "contents": "<i class=\"fa fa-plug\"><\/i>"
+        },
+        {
+            "trigger": "fa-plus",
+            "contents": "fa fa-plus"
+        },
+        {
+            "trigger": "ifa-plus",
+            "contents": "<i class=\"fa fa-plus\"><\/i>"
+        },
+        {
+            "trigger": "fa-plus-circle",
+            "contents": "fa fa-plus-circle"
+        },
+        {
+            "trigger": "ifa-plus-circle",
+            "contents": "<i class=\"fa fa-plus-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-plus-square",
+            "contents": "fa fa-plus-square"
+        },
+        {
+            "trigger": "ifa-plus-square",
+            "contents": "<i class=\"fa fa-plus-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-plus-square-o",
+            "contents": "fa fa-plus-square-o"
+        },
+        {
+            "trigger": "ifa-plus-square-o",
+            "contents": "<i class=\"fa fa-plus-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-power-off",
+            "contents": "fa fa-power-off"
+        },
+        {
+            "trigger": "ifa-power-off",
+            "contents": "<i class=\"fa fa-power-off\"><\/i>"
+        },
+        {
+            "trigger": "fa-print",
+            "contents": "fa fa-print"
+        },
+        {
+            "trigger": "ifa-print",
+            "contents": "<i class=\"fa fa-print\"><\/i>"
+        },
+        {
+            "trigger": "fa-puzzle-piece",
+            "contents": "fa fa-puzzle-piece"
+        },
+        {
+            "trigger": "ifa-puzzle-piece",
+            "contents": "<i class=\"fa fa-puzzle-piece\"><\/i>"
+        },
+        {
+            "trigger": "fa-qq",
+            "contents": "fa fa-qq"
+        },
+        {
+            "trigger": "ifa-qq",
+            "contents": "<i class=\"fa fa-qq\"><\/i>"
+        },
+        {
+            "trigger": "fa-qrcode",
+            "contents": "fa fa-qrcode"
+        },
+        {
+            "trigger": "ifa-qrcode",
+            "contents": "<i class=\"fa fa-qrcode\"><\/i>"
+        },
+        {
+            "trigger": "fa-question",
+            "contents": "fa fa-question"
+        },
+        {
+            "trigger": "ifa-question",
+            "contents": "<i class=\"fa fa-question\"><\/i>"
+        },
+        {
+            "trigger": "fa-question-circle",
+            "contents": "fa fa-question-circle"
+        },
+        {
+            "trigger": "ifa-question-circle",
+            "contents": "<i class=\"fa fa-question-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-quote-left",
+            "contents": "fa fa-quote-left"
+        },
+        {
+            "trigger": "ifa-quote-left",
+            "contents": "<i class=\"fa fa-quote-left\"><\/i>"
+        },
+        {
+            "trigger": "fa-quote-right",
+            "contents": "fa fa-quote-right"
+        },
+        {
+            "trigger": "ifa-quote-right",
+            "contents": "<i class=\"fa fa-quote-right\"><\/i>"
+        },
+        {
+            "trigger": "fa-random",
+            "contents": "fa fa-random"
+        },
+        {
+            "trigger": "ifa-random",
+            "contents": "<i class=\"fa fa-random\"><\/i>"
+        },
+        {
+            "trigger": "fa-rebel",
+            "contents": "fa fa-rebel"
+        },
+        {
+            "trigger": "ifa-rebel",
+            "contents": "<i class=\"fa fa-rebel\"><\/i>"
+        },
+        {
+            "trigger": "fa-recycle",
+            "contents": "fa fa-recycle"
+        },
+        {
+            "trigger": "ifa-recycle",
+            "contents": "<i class=\"fa fa-recycle\"><\/i>"
+        },
+        {
+            "trigger": "fa-reddit",
+            "contents": "fa fa-reddit"
+        },
+        {
+            "trigger": "ifa-reddit",
+            "contents": "<i class=\"fa fa-reddit\"><\/i>"
+        },
+        {
+            "trigger": "fa-reddit-square",
+            "contents": "fa fa-reddit-square"
+        },
+        {
+            "trigger": "ifa-reddit-square",
+            "contents": "<i class=\"fa fa-reddit-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-refresh",
+            "contents": "fa fa-refresh"
+        },
+        {
+            "trigger": "ifa-refresh",
+            "contents": "<i class=\"fa fa-refresh\"><\/i>"
+        },
+        {
+            "trigger": "fa-renren",
+            "contents": "fa fa-renren"
+        },
+        {
+            "trigger": "ifa-renren",
+            "contents": "<i class=\"fa fa-renren\"><\/i>"
+        },
+        {
+            "trigger": "fa-repeat",
+            "contents": "fa fa-repeat"
+        },
+        {
+            "trigger": "ifa-repeat",
+            "contents": "<i class=\"fa fa-repeat\"><\/i>"
+        },
+        {
+            "trigger": "fa-reply",
+            "contents": "fa fa-reply"
+        },
+        {
+            "trigger": "ifa-reply",
+            "contents": "<i class=\"fa fa-reply\"><\/i>"
+        },
+        {
+            "trigger": "fa-reply-all",
+            "contents": "fa fa-reply-all"
+        },
+        {
+            "trigger": "ifa-reply-all",
+            "contents": "<i class=\"fa fa-reply-all\"><\/i>"
+        },
+        {
+            "trigger": "fa-retweet",
+            "contents": "fa fa-retweet"
+        },
+        {
+            "trigger": "ifa-retweet",
+            "contents": "<i class=\"fa fa-retweet\"><\/i>"
+        },
+        {
+            "trigger": "fa-road",
+            "contents": "fa fa-road"
+        },
+        {
+            "trigger": "ifa-road",
+            "contents": "<i class=\"fa fa-road\"><\/i>"
+        },
+        {
+            "trigger": "fa-rocket",
+            "contents": "fa fa-rocket"
+        },
+        {
+            "trigger": "ifa-rocket",
+            "contents": "<i class=\"fa fa-rocket\"><\/i>"
+        },
+        {
+            "trigger": "fa-rss",
+            "contents": "fa fa-rss"
+        },
+        {
+            "trigger": "ifa-rss",
+            "contents": "<i class=\"fa fa-rss\"><\/i>"
+        },
+        {
+            "trigger": "fa-rss-square",
+            "contents": "fa fa-rss-square"
+        },
+        {
+            "trigger": "ifa-rss-square",
+            "contents": "<i class=\"fa fa-rss-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-rub",
+            "contents": "fa fa-rub"
+        },
+        {
+            "trigger": "ifa-rub",
+            "contents": "<i class=\"fa fa-rub\"><\/i>"
+        },
+        {
+            "trigger": "fa-scissors",
+            "contents": "fa fa-scissors"
+        },
+        {
+            "trigger": "ifa-scissors",
+            "contents": "<i class=\"fa fa-scissors\"><\/i>"
+        },
+        {
+            "trigger": "fa-search",
+            "contents": "fa fa-search"
+        },
+        {
+            "trigger": "ifa-search",
+            "contents": "<i class=\"fa fa-search\"><\/i>"
+        },
+        {
+            "trigger": "fa-search-minus",
+            "contents": "fa fa-search-minus"
+        },
+        {
+            "trigger": "ifa-search-minus",
+            "contents": "<i class=\"fa fa-search-minus\"><\/i>"
+        },
+        {
+            "trigger": "fa-search-plus",
+            "contents": "fa fa-search-plus"
+        },
+        {
+            "trigger": "ifa-search-plus",
+            "contents": "<i class=\"fa fa-search-plus\"><\/i>"
+        },
+        {
+            "trigger": "fa-share",
+            "contents": "fa fa-share"
+        },
+        {
+            "trigger": "ifa-share",
+            "contents": "<i class=\"fa fa-share\"><\/i>"
+        },
+        {
+            "trigger": "fa-share-alt",
+            "contents": "fa fa-share-alt"
+        },
+        {
+            "trigger": "ifa-share-alt",
+            "contents": "<i class=\"fa fa-share-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-share-alt-square",
+            "contents": "fa fa-share-alt-square"
+        },
+        {
+            "trigger": "ifa-share-alt-square",
+            "contents": "<i class=\"fa fa-share-alt-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-share-square",
+            "contents": "fa fa-share-square"
+        },
+        {
+            "trigger": "ifa-share-square",
+            "contents": "<i class=\"fa fa-share-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-share-square-o",
+            "contents": "fa fa-share-square-o"
+        },
+        {
+            "trigger": "ifa-share-square-o",
+            "contents": "<i class=\"fa fa-share-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-shield",
+            "contents": "fa fa-shield"
+        },
+        {
+            "trigger": "ifa-shield",
+            "contents": "<i class=\"fa fa-shield\"><\/i>"
+        },
+        {
+            "trigger": "fa-shopping-cart",
+            "contents": "fa fa-shopping-cart"
+        },
+        {
+            "trigger": "ifa-shopping-cart",
+            "contents": "<i class=\"fa fa-shopping-cart\"><\/i>"
+        },
+        {
+            "trigger": "fa-sign-in",
+            "contents": "fa fa-sign-in"
+        },
+        {
+            "trigger": "ifa-sign-in",
+            "contents": "<i class=\"fa fa-sign-in\"><\/i>"
+        },
+        {
+            "trigger": "fa-sign-out",
+            "contents": "fa fa-sign-out"
+        },
+        {
+            "trigger": "ifa-sign-out",
+            "contents": "<i class=\"fa fa-sign-out\"><\/i>"
+        },
+        {
+            "trigger": "fa-signal",
+            "contents": "fa fa-signal"
+        },
+        {
+            "trigger": "ifa-signal",
+            "contents": "<i class=\"fa fa-signal\"><\/i>"
+        },
+        {
+            "trigger": "fa-sitemap",
+            "contents": "fa fa-sitemap"
+        },
+        {
+            "trigger": "ifa-sitemap",
+            "contents": "<i class=\"fa fa-sitemap\"><\/i>"
+        },
+        {
+            "trigger": "fa-skype",
+            "contents": "fa fa-skype"
+        },
+        {
+            "trigger": "ifa-skype",
+            "contents": "<i class=\"fa fa-skype\"><\/i>"
+        },
+        {
+            "trigger": "fa-slack",
+            "contents": "fa fa-slack"
+        },
+        {
+            "trigger": "ifa-slack",
+            "contents": "<i class=\"fa fa-slack\"><\/i>"
+        },
+        {
+            "trigger": "fa-sliders",
+            "contents": "fa fa-sliders"
+        },
+        {
+            "trigger": "ifa-sliders",
+            "contents": "<i class=\"fa fa-sliders\"><\/i>"
+        },
+        {
+            "trigger": "fa-slideshare",
+            "contents": "fa fa-slideshare"
+        },
+        {
+            "trigger": "ifa-slideshare",
+            "contents": "<i class=\"fa fa-slideshare\"><\/i>"
+        },
+        {
+            "trigger": "fa-smile-o",
+            "contents": "fa fa-smile-o"
+        },
+        {
+            "trigger": "ifa-smile-o",
+            "contents": "<i class=\"fa fa-smile-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort",
+            "contents": "fa fa-sort"
+        },
+        {
+            "trigger": "ifa-sort",
+            "contents": "<i class=\"fa fa-sort\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-alpha-asc",
+            "contents": "fa fa-sort-alpha-asc"
+        },
+        {
+            "trigger": "ifa-sort-alpha-asc",
+            "contents": "<i class=\"fa fa-sort-alpha-asc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-alpha-desc",
+            "contents": "fa fa-sort-alpha-desc"
+        },
+        {
+            "trigger": "ifa-sort-alpha-desc",
+            "contents": "<i class=\"fa fa-sort-alpha-desc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-amount-asc",
+            "contents": "fa fa-sort-amount-asc"
+        },
+        {
+            "trigger": "ifa-sort-amount-asc",
+            "contents": "<i class=\"fa fa-sort-amount-asc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-amount-desc",
+            "contents": "fa fa-sort-amount-desc"
+        },
+        {
+            "trigger": "ifa-sort-amount-desc",
+            "contents": "<i class=\"fa fa-sort-amount-desc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-asc",
+            "contents": "fa fa-sort-asc"
+        },
+        {
+            "trigger": "ifa-sort-asc",
+            "contents": "<i class=\"fa fa-sort-asc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-desc",
+            "contents": "fa fa-sort-desc"
+        },
+        {
+            "trigger": "ifa-sort-desc",
+            "contents": "<i class=\"fa fa-sort-desc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-numeric-asc",
+            "contents": "fa fa-sort-numeric-asc"
+        },
+        {
+            "trigger": "ifa-sort-numeric-asc",
+            "contents": "<i class=\"fa fa-sort-numeric-asc\"><\/i>"
+        },
+        {
+            "trigger": "fa-sort-numeric-desc",
+            "contents": "fa fa-sort-numeric-desc"
+        },
+        {
+            "trigger": "ifa-sort-numeric-desc",
+            "contents": "<i class=\"fa fa-sort-numeric-desc\"><\/i>"
+        },
+        {
+            "trigger": "fa-soundcloud",
+            "contents": "fa fa-soundcloud"
+        },
+        {
+            "trigger": "ifa-soundcloud",
+            "contents": "<i class=\"fa fa-soundcloud\"><\/i>"
+        },
+        {
+            "trigger": "fa-space-shuttle",
+            "contents": "fa fa-space-shuttle"
+        },
+        {
+            "trigger": "ifa-space-shuttle",
+            "contents": "<i class=\"fa fa-space-shuttle\"><\/i>"
+        },
+        {
+            "trigger": "fa-spinner",
+            "contents": "fa fa-spinner"
+        },
+        {
+            "trigger": "ifa-spinner",
+            "contents": "<i class=\"fa fa-spinner\"><\/i>"
+        },
+        {
+            "trigger": "fa-spoon",
+            "contents": "fa fa-spoon"
+        },
+        {
+            "trigger": "ifa-spoon",
+            "contents": "<i class=\"fa fa-spoon\"><\/i>"
+        },
+        {
+            "trigger": "fa-spotify",
+            "contents": "fa fa-spotify"
+        },
+        {
+            "trigger": "ifa-spotify",
+            "contents": "<i class=\"fa fa-spotify\"><\/i>"
+        },
+        {
+            "trigger": "fa-square",
+            "contents": "fa fa-square"
+        },
+        {
+            "trigger": "ifa-square",
+            "contents": "<i class=\"fa fa-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-square-o",
+            "contents": "fa fa-square-o"
+        },
+        {
+            "trigger": "ifa-square-o",
+            "contents": "<i class=\"fa fa-square-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-stack-exchange",
+            "contents": "fa fa-stack-exchange"
+        },
+        {
+            "trigger": "ifa-stack-exchange",
+            "contents": "<i class=\"fa fa-stack-exchange\"><\/i>"
+        },
+        {
+            "trigger": "fa-stack-overflow",
+            "contents": "fa fa-stack-overflow"
+        },
+        {
+            "trigger": "ifa-stack-overflow",
+            "contents": "<i class=\"fa fa-stack-overflow\"><\/i>"
+        },
+        {
+            "trigger": "fa-star",
+            "contents": "fa fa-star"
+        },
+        {
+            "trigger": "ifa-star",
+            "contents": "<i class=\"fa fa-star\"><\/i>"
+        },
+        {
+            "trigger": "fa-star-half",
+            "contents": "fa fa-star-half"
+        },
+        {
+            "trigger": "ifa-star-half",
+            "contents": "<i class=\"fa fa-star-half\"><\/i>"
+        },
+        {
+            "trigger": "fa-star-half-o",
+            "contents": "fa fa-star-half-o"
+        },
+        {
+            "trigger": "ifa-star-half-o",
+            "contents": "<i class=\"fa fa-star-half-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-star-o",
+            "contents": "fa fa-star-o"
+        },
+        {
+            "trigger": "ifa-star-o",
+            "contents": "<i class=\"fa fa-star-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-steam",
+            "contents": "fa fa-steam"
+        },
+        {
+            "trigger": "ifa-steam",
+            "contents": "<i class=\"fa fa-steam\"><\/i>"
+        },
+        {
+            "trigger": "fa-steam-square",
+            "contents": "fa fa-steam-square"
+        },
+        {
+            "trigger": "ifa-steam-square",
+            "contents": "<i class=\"fa fa-steam-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-step-backward",
+            "contents": "fa fa-step-backward"
+        },
+        {
+            "trigger": "ifa-step-backward",
+            "contents": "<i class=\"fa fa-step-backward\"><\/i>"
+        },
+        {
+            "trigger": "fa-step-forward",
+            "contents": "fa fa-step-forward"
+        },
+        {
+            "trigger": "ifa-step-forward",
+            "contents": "<i class=\"fa fa-step-forward\"><\/i>"
+        },
+        {
+            "trigger": "fa-stethoscope",
+            "contents": "fa fa-stethoscope"
+        },
+        {
+            "trigger": "ifa-stethoscope",
+            "contents": "<i class=\"fa fa-stethoscope\"><\/i>"
+        },
+        {
+            "trigger": "fa-stop",
+            "contents": "fa fa-stop"
+        },
+        {
+            "trigger": "ifa-stop",
+            "contents": "<i class=\"fa fa-stop\"><\/i>"
+        },
+        {
+            "trigger": "fa-strikethrough",
+            "contents": "fa fa-strikethrough"
+        },
+        {
+            "trigger": "ifa-strikethrough",
+            "contents": "<i class=\"fa fa-strikethrough\"><\/i>"
+        },
+        {
+            "trigger": "fa-stumbleupon",
+            "contents": "fa fa-stumbleupon"
+        },
+        {
+            "trigger": "ifa-stumbleupon",
+            "contents": "<i class=\"fa fa-stumbleupon\"><\/i>"
+        },
+        {
+            "trigger": "fa-stumbleupon-circle",
+            "contents": "fa fa-stumbleupon-circle"
+        },
+        {
+            "trigger": "ifa-stumbleupon-circle",
+            "contents": "<i class=\"fa fa-stumbleupon-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-subscript",
+            "contents": "fa fa-subscript"
+        },
+        {
+            "trigger": "ifa-subscript",
+            "contents": "<i class=\"fa fa-subscript\"><\/i>"
+        },
+        {
+            "trigger": "fa-suitcase",
+            "contents": "fa fa-suitcase"
+        },
+        {
+            "trigger": "ifa-suitcase",
+            "contents": "<i class=\"fa fa-suitcase\"><\/i>"
+        },
+        {
+            "trigger": "fa-sun-o",
+            "contents": "fa fa-sun-o"
+        },
+        {
+            "trigger": "ifa-sun-o",
+            "contents": "<i class=\"fa fa-sun-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-superscript",
+            "contents": "fa fa-superscript"
+        },
+        {
+            "trigger": "ifa-superscript",
+            "contents": "<i class=\"fa fa-superscript\"><\/i>"
+        },
+        {
+            "trigger": "fa-table",
+            "contents": "fa fa-table"
+        },
+        {
+            "trigger": "ifa-table",
+            "contents": "<i class=\"fa fa-table\"><\/i>"
+        },
+        {
+            "trigger": "fa-tablet",
+            "contents": "fa fa-tablet"
+        },
+        {
+            "trigger": "ifa-tablet",
+            "contents": "<i class=\"fa fa-tablet\"><\/i>"
+        },
+        {
+            "trigger": "fa-tachometer",
+            "contents": "fa fa-tachometer"
+        },
+        {
+            "trigger": "ifa-tachometer",
+            "contents": "<i class=\"fa fa-tachometer\"><\/i>"
+        },
+        {
+            "trigger": "fa-tag",
+            "contents": "fa fa-tag"
+        },
+        {
+            "trigger": "ifa-tag",
+            "contents": "<i class=\"fa fa-tag\"><\/i>"
+        },
+        {
+            "trigger": "fa-tags",
+            "contents": "fa fa-tags"
+        },
+        {
+            "trigger": "ifa-tags",
+            "contents": "<i class=\"fa fa-tags\"><\/i>"
+        },
+        {
+            "trigger": "fa-tasks",
+            "contents": "fa fa-tasks"
+        },
+        {
+            "trigger": "ifa-tasks",
+            "contents": "<i class=\"fa fa-tasks\"><\/i>"
+        },
+        {
+            "trigger": "fa-taxi",
+            "contents": "fa fa-taxi"
+        },
+        {
+            "trigger": "ifa-taxi",
+            "contents": "<i class=\"fa fa-taxi\"><\/i>"
+        },
+        {
+            "trigger": "fa-tencent-weibo",
+            "contents": "fa fa-tencent-weibo"
+        },
+        {
+            "trigger": "ifa-tencent-weibo",
+            "contents": "<i class=\"fa fa-tencent-weibo\"><\/i>"
+        },
+        {
+            "trigger": "fa-terminal",
+            "contents": "fa fa-terminal"
+        },
+        {
+            "trigger": "ifa-terminal",
+            "contents": "<i class=\"fa fa-terminal\"><\/i>"
+        },
+        {
+            "trigger": "fa-text-height",
+            "contents": "fa fa-text-height"
+        },
+        {
+            "trigger": "ifa-text-height",
+            "contents": "<i class=\"fa fa-text-height\"><\/i>"
+        },
+        {
+            "trigger": "fa-text-width",
+            "contents": "fa fa-text-width"
+        },
+        {
+            "trigger": "ifa-text-width",
+            "contents": "<i class=\"fa fa-text-width\"><\/i>"
+        },
+        {
+            "trigger": "fa-th",
+            "contents": "fa fa-th"
+        },
+        {
+            "trigger": "ifa-th",
+            "contents": "<i class=\"fa fa-th\"><\/i>"
+        },
+        {
+            "trigger": "fa-th-large",
+            "contents": "fa fa-th-large"
+        },
+        {
+            "trigger": "ifa-th-large",
+            "contents": "<i class=\"fa fa-th-large\"><\/i>"
+        },
+        {
+            "trigger": "fa-th-list",
+            "contents": "fa fa-th-list"
+        },
+        {
+            "trigger": "ifa-th-list",
+            "contents": "<i class=\"fa fa-th-list\"><\/i>"
+        },
+        {
+            "trigger": "fa-thumb-tack",
+            "contents": "fa fa-thumb-tack"
+        },
+        {
+            "trigger": "ifa-thumb-tack",
+            "contents": "<i class=\"fa fa-thumb-tack\"><\/i>"
+        },
+        {
+            "trigger": "fa-thumbs-down",
+            "contents": "fa fa-thumbs-down"
+        },
+        {
+            "trigger": "ifa-thumbs-down",
+            "contents": "<i class=\"fa fa-thumbs-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-thumbs-o-down",
+            "contents": "fa fa-thumbs-o-down"
+        },
+        {
+            "trigger": "ifa-thumbs-o-down",
+            "contents": "<i class=\"fa fa-thumbs-o-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-thumbs-o-up",
+            "contents": "fa fa-thumbs-o-up"
+        },
+        {
+            "trigger": "ifa-thumbs-o-up",
+            "contents": "<i class=\"fa fa-thumbs-o-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-thumbs-up",
+            "contents": "fa fa-thumbs-up"
+        },
+        {
+            "trigger": "ifa-thumbs-up",
+            "contents": "<i class=\"fa fa-thumbs-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-ticket",
+            "contents": "fa fa-ticket"
+        },
+        {
+            "trigger": "ifa-ticket",
+            "contents": "<i class=\"fa fa-ticket\"><\/i>"
+        },
+        {
+            "trigger": "fa-times",
+            "contents": "fa fa-times"
+        },
+        {
+            "trigger": "ifa-times",
+            "contents": "<i class=\"fa fa-times\"><\/i>"
+        },
+        {
+            "trigger": "fa-times-circle",
+            "contents": "fa fa-times-circle"
+        },
+        {
+            "trigger": "ifa-times-circle",
+            "contents": "<i class=\"fa fa-times-circle\"><\/i>"
+        },
+        {
+            "trigger": "fa-times-circle-o",
+            "contents": "fa fa-times-circle-o"
+        },
+        {
+            "trigger": "ifa-times-circle-o",
+            "contents": "<i class=\"fa fa-times-circle-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-tint",
+            "contents": "fa fa-tint"
+        },
+        {
+            "trigger": "ifa-tint",
+            "contents": "<i class=\"fa fa-tint\"><\/i>"
+        },
+        {
+            "trigger": "fa-toggle-off",
+            "contents": "fa fa-toggle-off"
+        },
+        {
+            "trigger": "ifa-toggle-off",
+            "contents": "<i class=\"fa fa-toggle-off\"><\/i>"
+        },
+        {
+            "trigger": "fa-toggle-on",
+            "contents": "fa fa-toggle-on"
+        },
+        {
+            "trigger": "ifa-toggle-on",
+            "contents": "<i class=\"fa fa-toggle-on\"><\/i>"
+        },
+        {
+            "trigger": "fa-trash",
+            "contents": "fa fa-trash"
+        },
+        {
+            "trigger": "ifa-trash",
+            "contents": "<i class=\"fa fa-trash\"><\/i>"
+        },
+        {
+            "trigger": "fa-trash-o",
+            "contents": "fa fa-trash-o"
+        },
+        {
+            "trigger": "ifa-trash-o",
+            "contents": "<i class=\"fa fa-trash-o\"><\/i>"
+        },
+        {
+            "trigger": "fa-tree",
+            "contents": "fa fa-tree"
+        },
+        {
+            "trigger": "ifa-tree",
+            "contents": "<i class=\"fa fa-tree\"><\/i>"
+        },
+        {
+            "trigger": "fa-trello",
+            "contents": "fa fa-trello"
+        },
+        {
+            "trigger": "ifa-trello",
+            "contents": "<i class=\"fa fa-trello\"><\/i>"
+        },
+        {
+            "trigger": "fa-trophy",
+            "contents": "fa fa-trophy"
+        },
+        {
+            "trigger": "ifa-trophy",
+            "contents": "<i class=\"fa fa-trophy\"><\/i>"
+        },
+        {
+            "trigger": "fa-truck",
+            "contents": "fa fa-truck"
+        },
+        {
+            "trigger": "ifa-truck",
+            "contents": "<i class=\"fa fa-truck\"><\/i>"
+        },
+        {
+            "trigger": "fa-try",
+            "contents": "fa fa-try"
+        },
+        {
+            "trigger": "ifa-try",
+            "contents": "<i class=\"fa fa-try\"><\/i>"
+        },
+        {
+            "trigger": "fa-tty",
+            "contents": "fa fa-tty"
+        },
+        {
+            "trigger": "ifa-tty",
+            "contents": "<i class=\"fa fa-tty\"><\/i>"
+        },
+        {
+            "trigger": "fa-tumblr",
+            "contents": "fa fa-tumblr"
+        },
+        {
+            "trigger": "ifa-tumblr",
+            "contents": "<i class=\"fa fa-tumblr\"><\/i>"
+        },
+        {
+            "trigger": "fa-tumblr-square",
+            "contents": "fa fa-tumblr-square"
+        },
+        {
+            "trigger": "ifa-tumblr-square",
+            "contents": "<i class=\"fa fa-tumblr-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-twitch",
+            "contents": "fa fa-twitch"
+        },
+        {
+            "trigger": "ifa-twitch",
+            "contents": "<i class=\"fa fa-twitch\"><\/i>"
+        },
+        {
+            "trigger": "fa-twitter",
+            "contents": "fa fa-twitter"
+        },
+        {
+            "trigger": "ifa-twitter",
+            "contents": "<i class=\"fa fa-twitter\"><\/i>"
+        },
+        {
+            "trigger": "fa-twitter-square",
+            "contents": "fa fa-twitter-square"
+        },
+        {
+            "trigger": "ifa-twitter-square",
+            "contents": "<i class=\"fa fa-twitter-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-umbrella",
+            "contents": "fa fa-umbrella"
+        },
+        {
+            "trigger": "ifa-umbrella",
+            "contents": "<i class=\"fa fa-umbrella\"><\/i>"
+        },
+        {
+            "trigger": "fa-underline",
+            "contents": "fa fa-underline"
+        },
+        {
+            "trigger": "ifa-underline",
+            "contents": "<i class=\"fa fa-underline\"><\/i>"
+        },
+        {
+            "trigger": "fa-undo",
+            "contents": "fa fa-undo"
+        },
+        {
+            "trigger": "ifa-undo",
+            "contents": "<i class=\"fa fa-undo\"><\/i>"
+        },
+        {
+            "trigger": "fa-university",
+            "contents": "fa fa-university"
+        },
+        {
+            "trigger": "ifa-university",
+            "contents": "<i class=\"fa fa-university\"><\/i>"
+        },
+        {
+            "trigger": "fa-unlock",
+            "contents": "fa fa-unlock"
+        },
+        {
+            "trigger": "ifa-unlock",
+            "contents": "<i class=\"fa fa-unlock\"><\/i>"
+        },
+        {
+            "trigger": "fa-unlock-alt",
+            "contents": "fa fa-unlock-alt"
+        },
+        {
+            "trigger": "ifa-unlock-alt",
+            "contents": "<i class=\"fa fa-unlock-alt\"><\/i>"
+        },
+        {
+            "trigger": "fa-upload",
+            "contents": "fa fa-upload"
+        },
+        {
+            "trigger": "ifa-upload",
+            "contents": "<i class=\"fa fa-upload\"><\/i>"
+        },
+        {
+            "trigger": "fa-usd",
+            "contents": "fa fa-usd"
+        },
+        {
+            "trigger": "ifa-usd",
+            "contents": "<i class=\"fa fa-usd\"><\/i>"
+        },
+        {
+            "trigger": "fa-user",
+            "contents": "fa fa-user"
+        },
+        {
+            "trigger": "ifa-user",
+            "contents": "<i class=\"fa fa-user\"><\/i>"
+        },
+        {
+            "trigger": "fa-user-md",
+            "contents": "fa fa-user-md"
+        },
+        {
+            "trigger": "ifa-user-md",
+            "contents": "<i class=\"fa fa-user-md\"><\/i>"
+        },
+        {
+            "trigger": "fa-users",
+            "contents": "fa fa-users"
+        },
+        {
+            "trigger": "ifa-users",
+            "contents": "<i class=\"fa fa-users\"><\/i>"
+        },
+        {
+            "trigger": "fa-video-camera",
+            "contents": "fa fa-video-camera"
+        },
+        {
+            "trigger": "ifa-video-camera",
+            "contents": "<i class=\"fa fa-video-camera\"><\/i>"
+        },
+        {
+            "trigger": "fa-vimeo-square",
+            "contents": "fa fa-vimeo-square"
+        },
+        {
+            "trigger": "ifa-vimeo-square",
+            "contents": "<i class=\"fa fa-vimeo-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-vine",
+            "contents": "fa fa-vine"
+        },
+        {
+            "trigger": "ifa-vine",
+            "contents": "<i class=\"fa fa-vine\"><\/i>"
+        },
+        {
+            "trigger": "fa-vk",
+            "contents": "fa fa-vk"
+        },
+        {
+            "trigger": "ifa-vk",
+            "contents": "<i class=\"fa fa-vk\"><\/i>"
+        },
+        {
+            "trigger": "fa-volume-down",
+            "contents": "fa fa-volume-down"
+        },
+        {
+            "trigger": "ifa-volume-down",
+            "contents": "<i class=\"fa fa-volume-down\"><\/i>"
+        },
+        {
+            "trigger": "fa-volume-off",
+            "contents": "fa fa-volume-off"
+        },
+        {
+            "trigger": "ifa-volume-off",
+            "contents": "<i class=\"fa fa-volume-off\"><\/i>"
+        },
+        {
+            "trigger": "fa-volume-up",
+            "contents": "fa fa-volume-up"
+        },
+        {
+            "trigger": "ifa-volume-up",
+            "contents": "<i class=\"fa fa-volume-up\"><\/i>"
+        },
+        {
+            "trigger": "fa-weibo",
+            "contents": "fa fa-weibo"
+        },
+        {
+            "trigger": "ifa-weibo",
+            "contents": "<i class=\"fa fa-weibo\"><\/i>"
+        },
+        {
+            "trigger": "fa-weixin",
+            "contents": "fa fa-weixin"
+        },
+        {
+            "trigger": "ifa-weixin",
+            "contents": "<i class=\"fa fa-weixin\"><\/i>"
+        },
+        {
+            "trigger": "fa-wheelchair",
+            "contents": "fa fa-wheelchair"
+        },
+        {
+            "trigger": "ifa-wheelchair",
+            "contents": "<i class=\"fa fa-wheelchair\"><\/i>"
+        },
+        {
+            "trigger": "fa-wifi",
+            "contents": "fa fa-wifi"
+        },
+        {
+            "trigger": "ifa-wifi",
+            "contents": "<i class=\"fa fa-wifi\"><\/i>"
+        },
+        {
+            "trigger": "fa-windows",
+            "contents": "fa fa-windows"
+        },
+        {
+            "trigger": "ifa-windows",
+            "contents": "<i class=\"fa fa-windows\"><\/i>"
+        },
+        {
+            "trigger": "fa-wordpress",
+            "contents": "fa fa-wordpress"
+        },
+        {
+            "trigger": "ifa-wordpress",
+            "contents": "<i class=\"fa fa-wordpress\"><\/i>"
+        },
+        {
+            "trigger": "fa-wrench",
+            "contents": "fa fa-wrench"
+        },
+        {
+            "trigger": "ifa-wrench",
+            "contents": "<i class=\"fa fa-wrench\"><\/i>"
+        },
+        {
+            "trigger": "fa-xing",
+            "contents": "fa fa-xing"
+        },
+        {
+            "trigger": "ifa-xing",
+            "contents": "<i class=\"fa fa-xing\"><\/i>"
+        },
+        {
+            "trigger": "fa-xing-square",
+            "contents": "fa fa-xing-square"
+        },
+        {
+            "trigger": "ifa-xing-square",
+            "contents": "<i class=\"fa fa-xing-square\"><\/i>"
+        },
+        {
+            "trigger": "fa-yahoo",
+            "contents": "fa fa-yahoo"
+        },
+        {
+            "trigger": "ifa-yahoo",
+            "contents": "<i class=\"fa fa-yahoo\"><\/i>"
+        },
+        {
+            "trigger": "fa-yelp",
+            "contents": "fa fa-yelp"
+        },
+        {
+            "trigger": "ifa-yelp",
+            "contents": "<i class=\"fa fa-yelp\"><\/i>"
+        },
+        {
+            "trigger": "fa-youtube",
+            "contents": "fa fa-youtube"
+        },
+        {
+            "trigger": "ifa-youtube",
+            "contents": "<i class=\"fa fa-youtube\"><\/i>"
+        },
+        {
+            "trigger": "fa-youtube-play",
+            "contents": "fa fa-youtube-play"
+        },
+        {
+            "trigger": "ifa-youtube-play",
+            "contents": "<i class=\"fa fa-youtube-play\"><\/i>"
+        },
+        {
+            "trigger": "fa-youtube-square",
+            "contents": "fa fa-youtube-square"
+        },
+        {
+            "trigger": "ifa-youtube-square",
+            "contents": "<i class=\"fa fa-youtube-square\"><\/i>"
+        }
+    ]
+}
