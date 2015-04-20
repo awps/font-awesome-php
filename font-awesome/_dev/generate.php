@@ -19,11 +19,6 @@
 
 $gen_start = microtime(true);
 
-/*
--------------------------------------------------------------------------------
-Setup
--------------------------------------------------------------------------------
-*/
 if( ! function_exists('smk_saveToFile') ){
 	function smk_saveToFile($path, $data){
 		if( file_put_contents($path, $data) ){
@@ -48,11 +43,6 @@ $fa_array = $fa->getArray($css_path);
 $icons = $fa->sortByName($fa_array);
 $readableNames = $fa->readableName($icons);
 
-/*
--------------------------------------------------------------------------------
-Generate
--------------------------------------------------------------------------------
-*/
 //Serialized
 $serialized = serialize($icons);
 smk_saveToFile(dirname(__DIR__) . '/php/font-awesome-data-serialized.php', $serialized);
@@ -92,31 +82,6 @@ $phpfn .= "\t);\r\n";
 $phpfn .= "}\r\n";
 $phpfn .= "}\r\n";
 smk_saveToFile(dirname(__DIR__) . '/php/font-awesome-data-readable.php', $phpfn);
-
-//Sublime autocompletions
-$completions = array();
-$index = 0;
-foreach ($readableNames as $name => $value) {
-	$completions['completions'][$index]['trigger'] = $name;
-	$completions['completions'][$index]['contents'] = 'fa ' . $name;
-	$index++;
-	$completions['completions'][$index]['trigger'] = 'i' . $name;
-	$completions['completions'][$index]['contents'] = '<i class="fa ' . $name .'"></i>';
-	$index++;
-}
-
-$php_completions['scope'] = "source.php - variable.other.php\n";
-$php_completions = array_merge($php_completions, $completions);
-
-$html_completions['scope'] = "text.html - variable.other.html\n";
-$html_completions = array_merge($html_completions, $completions);
-
-$json = (version_compare(PHP_VERSION, '5.4') >= 0) ? json_encode($php_completions, JSON_PRETTY_PRINT) : json_encode($php_completions, true);
-smk_saveToFile(dirname(__DIR__) . '/sublime-text/font-awesome-php.sublime-completions', $json);
-
-$json = (version_compare(PHP_VERSION, '5.4') >= 0) ? json_encode($html_completions, JSON_PRETTY_PRINT) : json_encode($html_completions, true);
-smk_saveToFile(dirname(__DIR__) . '/sublime-text/font-awesome-html.sublime-completions', $json);
-
 
 $gen_end = microtime(true);
 $generated = $gen_end - $gen_start;
