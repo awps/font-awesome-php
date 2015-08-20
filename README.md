@@ -4,7 +4,11 @@ SMK Font Awesome PHP, JSON
 This repository contains the necessary data to work with Font Awesome in PHP or JSON.
 
 **Requirements:**
+<<<<<<< HEAD
 * Font Awesome 4.4
+=======
+* Font Awesome 4.3.0
+>>>>>>> origin/master
  
 **License**
  * MIT - [Details](https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE)
