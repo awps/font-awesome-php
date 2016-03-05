@@ -5,7 +5,7 @@
  * Author: Smartik
  * Project URI: https://github.com/SMK-Toolkit/SMK-Font-Awesome-PHP-JSON
  */
-if( ! function_exists('smk_font_awesome'){
+if( ! function_exists('smk_font_awesome') ){
 function smk_font_awesome(){
 	return array(
 		'fa-500px' => '500px',
