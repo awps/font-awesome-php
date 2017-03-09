@@ -130,10 +130,10 @@ See [`dev/test.html`](https://github.com/SMK-Toolkit/SMK-Font-Awesome-PHP-JSON/b
 $.getJSON( "../font-awesome.json", function( data ) {
 	var names = [];
 	$.each( data, function( key, val ) {
-		names.push( "&lt;span>&lt;i class='fa " + key + "'>&lt;/i> " + val.name + "&lt;/span>" );
+		names.push( "<span><i class='fa " + key + "'></i> " + val.name + "</span>" );
 	});
 
-	$( "&lt;div/>", {
+	$( "<div/>", {
 	"class": "icons-readable",
 	html: names.join( "" )
 	}).appendTo( "body" );
