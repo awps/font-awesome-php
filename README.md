@@ -34,7 +34,7 @@ smk_font_awesome();
 //   ),
 //   ...
 //  )
-``
+```
 
 ### Get human readable names:
 ```php
