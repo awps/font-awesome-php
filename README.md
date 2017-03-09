@@ -83,14 +83,14 @@ smk_font_awesome( 'fa-star', 'name' );
 
 ### Get the unicode of a specific icon:
 ```php
-smk_font_awesome( 'fa-star', 'name' );
+smk_font_awesome( 'fa-star', 'unicode' );
 
 // '\f005'
 ```
 
 
 ##Advanced: The PHP class.
-You probably don't need this. Using this class can be resourse intensive, so you must run it once and cache the data somewhere(in database for example.).
+You probably don't need this. Using this class can be resource intensive, so you must run it only once and cache the data somewhere(in database, for example.).
 
 ```php
 //Require the class
