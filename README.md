@@ -21,7 +21,7 @@ Next you must use `smk_font_awesome` function, to get all icons or only specific
 
 ### Get all icons:
 ```php
-$icons = smk_font_awesome();
+smk_font_awesome();
 
 // array (
 //   'fa-500px' => array (
@@ -34,20 +34,73 @@ $icons = smk_font_awesome();
 //   ),
 //   ...
 //  )
+``
+
+### Get human readable names:
+```php
+smk_font_awesome( 'readable' );
+
+// array (
+//   'fa-500px' => '500px',
+//   'fa-address-book' => 'Address book',
+//   'fa-address-book-o' => 'Address book o',
+//   'fa-address-card' => 'Address card',
+//   'fa-address-card-o' => 'Address card o',
+//   ...
+//  )
+```
+
+### Get unicodes:
+```php
+smk_font_awesome( 'unicode' );
+
+// array (
+//   'fa-500px' => '\\f26e',
+//   'fa-address-book' => '\\f2b9',
+//   'fa-address-book-o' => '\\f2ba',
+//   'fa-address-card' => '\\f2bb',
+//   'fa-address-card-o' => '\\f2bc',
+//   ...
+//  )
+```
+
+### Get a specific icon:
+```php
+smk_font_awesome( 'fa-star' );
+
+// array (
+//   'unicode' => '\\f005',
+//   'name' => 'Star',
+// )
+```
+
+### Get the name of a specific icon:
+```php
+smk_font_awesome( 'fa-star', 'name' );
+
+// 'Star'
+```
+
+### Get the unicode of a specific icon:
+```php
+smk_font_awesome( 'fa-star', 'name' );
+
+// '\f005'
 ```
 
 
 ##Advanced: The PHP class.
+You probably don't need this. Using this class can be resourse intensive, so you must run it once and cache the data somewhere(in database for example.).
 
 ```php
-//Require class
-require( PATH . '/font-awesome.class.php' );
+//Require the class
+require(  dirname(__DIR__) . '/font-awesome.class.php' );
 
-//Init font awesome class
+//Init the class
 $fa = new Smk_FontAwesome;
 
-//Get array
-$icons = $fa->getArray(PATH . '/font-awesome/css/font-awesome.css');
+//Get the array of of icons
+$icons = $fa->getArray( dirname(__DIR__) . '/font-awesome/css/font-awesome.css');
 ```
 
 `$icons` variable now contains all FA class names in an array.
@@ -68,20 +121,21 @@ $fa->sortByName($icons);   //Sort by key name. Alphabetically sort: from a to z
 $fa->onlyClass($icons);    //Only HTML class, no unicode. 'fa-calendar' => 'fa-calendar',
 $fa->onlyUnicode($icons);  //Only unicode, no HTML class. '\f073' => '\f073',
 $fa->readableName($icons); //Only HTML class, readable. 'fa-video-camera' => 'Video Camera',
+$fa->allData($icons);      //All data, unicodes and human readable names
 ```
 
 ##JSON Example with jQuery.
 See [`dev/test.html`](https://github.com/SMK-Toolkit/SMK-Font-Awesome-PHP-JSON/blob/master/font-awesome/dev/test.html) for examples.
 ```js
-$.getJSON( "../font-awesome-data.json", function( data ) {
-	var items = [];
+$.getJSON( "../font-awesome.json", function( data ) {
+	var names = [];
 	$.each( data, function( key, val ) {
-		items.push( "<i class='fa " + key + "'></i> " );
+		names.push( "&lt;span>&lt;i class='fa " + key + "'>&lt;/i> " + val.name + "&lt;/span>" );
 	});
 
-	$( "<div/>", {
-	"class": "icons",
-	html: items.join( "" )
+	$( "&lt;div/>", {
+	"class": "icons-readable",
+	html: names.join( "" )
 	}).appendTo( "body" );
 
 });
