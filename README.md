@@ -140,3 +140,7 @@ $.getJSON( "../font-awesome.json", function( data ) {
 
 });
 ```
+
+
+##Notes:
+If you still need access to old files you can access them from `deprecated` directory. They also include updated data, but it's not recommended to use them anymore since will be removed in the future.
