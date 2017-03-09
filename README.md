@@ -4,38 +4,38 @@ SMK Font Awesome PHP, JSON
 This repository contains the necessary data to work with Font Awesome in PHP or JSON.
 
 **Requirements:**
-* Font Awesome 4.4
+* Font Awesome 4.7
+* PHP 5.3+ for `font-awesome.php`.
  
 **License**
  * MIT - [Details](https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE)
 
-##How to use:
+##How to use in PHP:
 
-You have multiple options:
-* use static data from files that start with `font-awesome-data...` php or json. Recomended if you just need the class names and nothing more. It's suitable for everyone.
-* use the PHP class to dynamically generate the array. - `font-awesome.class.php`. Recomended only if you cache the result and save it in a static file or Database. Advanced users.
-
-**Note:** *Replace `PATH` with a real constant or variable defined in your application. For example: `dirname(__FILE__)`*
-
-##Basic: Static data.
-
-Default data:
+###Include the following file. It will give you acces to `smk_font_awesome` function:
 ```php
-require( PATH . '/font-awesome-data.php' );
-$icons = smk_font_awesome();//The array
+require( dirname(__DIR__) . '/font-awesome.php' );
 ```
 
-Readable class names
+Next you must use `smk_font_awesome` function, to get all icons or only specific ones from array. The following example demostrates how to access different info using this function.
+
+### Get all icons:
 ```php
-require( PATH . '/font-awesome-data-readable.php' );
-$icons = smk_font_awesome();//The array
+$icons = smk_font_awesome();
+
+// array (
+//   'fa-500px' => array (
+//     'unicode' => '\\f26e',
+//     'name' => '500px',
+//   ),
+//   'fa-address-book' =>  array (
+//     'unicode' => '\\f2b9',
+//     'name' => 'Address book',
+//   ),
+//   ...
+//  )
 ```
 
-Serialized data may not be useful, but in some cases, for example if you want to import data in a database it may be the only file that you'll need.
-```php
-$icons = file_get_contents(PATH . '/font-awesome-data-serialized.php');
-$icons = unserialize($icons);//The array
-```
 
 ##Advanced: The PHP class.
 
