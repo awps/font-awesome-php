@@ -1,4 +1,4 @@
-SMK Font Awesome PHP, JSON
+Font Awesome data in PHP and JSON
 ==========================
 
 This repository contains the necessary data to work with Font Awesome in PHP or JSON.
