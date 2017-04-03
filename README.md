@@ -10,9 +10,9 @@ This repository contains the necessary data to work with Font Awesome in PHP or 
 **License**
  * MIT - [Details](https://github.com/Smartik89/SMK-Font-Awesome-PHP-JSON/blob/master/LICENSE)
 
-##How to use in PHP:
+## How to use in PHP:
 
-###Include the following file. It will give you acces to `smk_font_awesome` function:
+### Include the following file. It will give you acces to `smk_font_awesome` function:
 ```php
 require( dirname(__DIR__) . '/font-awesome.php' );
 ```
@@ -89,7 +89,7 @@ smk_font_awesome( 'fa-star', 'unicode' );
 ```
 
 
-##Advanced: The PHP class.
+## Advanced: The PHP class.
 You probably don't need this. Using this class can be resource intensive, so you must run it only once and cache the data somewhere(in database, for example.).
 
 ```php
@@ -124,7 +124,7 @@ $fa->readableName($icons); //Only HTML class, readable. 'fa-video-camera' => 'Vi
 $fa->allData($icons);      //All data, unicodes and human readable names
 ```
 
-##JSON Example with jQuery.
+## JSON Example with jQuery.
 See [`dev/test.html`](https://github.com/SMK-Toolkit/SMK-Font-Awesome-PHP-JSON/blob/master/font-awesome/dev/test.html) for examples.
 ```js
 $.getJSON( "../font-awesome.json", function( data ) {
@@ -142,5 +142,5 @@ $.getJSON( "../font-awesome.json", function( data ) {
 ```
 
 
-##Notes:
+## Notes:
 If you still need access to old files you can access them from `deprecated` directory. They also include updated data, but it's not recommended to use them anymore since will be removed in the future.
