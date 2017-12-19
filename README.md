@@ -6,6 +6,7 @@ This repository contains the necessary data to work with Font Awesome in PHP or 
 **Requirements:**
 * Font Awesome 4.7.0
 * PHP 5.3+.
+* http://zerowp.com
  
 **License**
  * MIT - [Details](https://github.com/awps/font-awesome-php/blob/master/LICENSE)
@@ -38,7 +39,7 @@ $icons    = new Awps\FontAwesomeReader( $css_path );
 $icons = new Awps\FontAwesomeReader();
 ```
 
-Next it's easy. You can get the array of icons just doing this.
+Next it's easy. You can get the array of icons just by doing this.
 ```php
 $icons->getArray();
 
