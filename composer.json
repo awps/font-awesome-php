@@ -1,5 +1,5 @@
 {
-  "name": "awps/font-awesome",
+  "name": "awps/font-awesome-php",
   "description": "A PHP library for Font Awesome.",
   "type": "library",
   "license": "GPL-3.0+",
