@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+.DS_Store?
+*.log
+phpcs.xml
+yarn.lock
+.phpintel
+.idea
+Thumbs.db
+desktop.ini
+vendor
+prepros.cfg
+package-lock.json
+composer-lock.json
