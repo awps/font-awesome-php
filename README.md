@@ -1,7 +1,7 @@
 A PHP library for Font Awesome.
 ==========================
 
-This repository contains the necessary data to work with Font Awesome in PHP or JSON.
+This repository contains the necessary data to work with Font Awesome in PHP.
 
 **Requirements:**
 * Font Awesome 4.7.0
