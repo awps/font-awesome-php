@@ -31,7 +31,7 @@ The library contains 2 main classes that are created for public:
 
 Create an instance:
 ```php
-// Using the reader to dinamically get the icons array. It's resource intensive and you must cache the result.
+// Using the reader to dynamically get the icons array. It's resource intensive and you must cache the result.
 $css_path = __DIR__ . '/css/font-awesome.css';
 $icons    = new Awps\FontAwesomeReader( $css_path );
 
