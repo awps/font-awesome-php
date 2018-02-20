@@ -36,7 +36,8 @@ $css_path = __DIR__ . '/css/font-awesome.css';
 $icons    = new Awps\FontAwesomeReader( $css_path );
 
 // .... or better use the static class
-$icons = new Awps\FontAwesomeReader();
+
+$icons = new Awps\FontAwesome();
 ```
 
 Next it's easy. You can get the array of icons just by doing this.
