@@ -6,7 +6,6 @@ This repository contains the necessary data to work with Font Awesome in PHP.
 **Requirements:**
 * Font Awesome 4.7.0
 * PHP 5.3+.
-* http://zerowp.com
  
 **License**
  * MIT - [Details](https://github.com/awps/font-awesome-php/blob/master/LICENSE)
